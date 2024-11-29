@@ -1,0 +1,20 @@
+[project]
+lastWorkingDirectory=base\\Simulation\\Semi-automated
+StartDate=Wed Nov 20 2024
+length_units=m
+mass_units=t
+LastOpened=Fri Nov 29 2024
+LastUser=carlo
+
+[transform]
+x=0
+y=0
+z=0
+
+[units]
+density=t/m3
+area=m2
+volume=m3
+length=m
+flow_rate=m3/s
+mass=t

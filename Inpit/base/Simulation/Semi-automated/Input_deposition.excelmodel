@@ -1,0 +1,269 @@
+
+# template Excel function.
+# generated automatically.
+
+# This file can be edited as needed.
+from muk3d.image import add_text_to_image, add_text_box_to_image
+from muk3d.view import create_video_output, get_layer_by_name, add_to_scene
+from muk3d.util import UnitConverter, get_command
+from muk3d.view import set_camera_position, clear_graphics, save_screencap
+from muk3d.file import load_file_to_layer
+import os
+import vtk
+from core.model.geometry import MSurface
+from core.util.command import MCommand
+from muk3d.geometry.polyline import PolyLine
+import shutil
+from muk3d.view import set_active_layer
+import json
+
+class ExcelModel(ExcelCommand):
+    FunctionName = 'Input_deposition'
+    SheetName = 'Muk3D_Interface'
+    SettingsSheetName = 'Muk3D_Settings'
+    Orientation = 'columns'
+    
+    '''
+    Some user methods:
+    self.write(val1, val2, etc) - write to the output window
+    self.write_u(....) - write to the user output window
+    self.write_error(val1, val2, etc) - write an error to the output window
+    self.write_warning(val1, val2, etc) - write a warning to the output window
+    self.get_resource_directory() - a directory where common resources for the simulation may be stored.
+    self.get_simulation_directory() - the directory the simulation was started in.
+    self.abort() - end the simulation
+    
+    '''
+    
+    @staticmethod
+    def interpolate_z(points, elevation):
+        p0 = points[0]
+        
+        for idx, p1 in enumerate(points[1:]):
+            x0,y0,z0 = p0
+            x1, y1, z1 = p1
+            dx = x1 - x0
+            dy = y1 - y0
+            dz = z1 - z0
+            
+            if z0 <= elevation <=z1 or z1 <= elevation <= z0:
+                ratio = (elevation - z0) / dz
+                nz = z0 + ratio * dz
+                ny = y0 + ratio * dy
+                nx = x0 + ratio * dx
+                return (nx, ny, nz)
+            p0 = p1
+            
+        return None
+        
+    def get_user_data(self, form):
+
+        return False
+
+    def get_input_columns(self):
+        inputs = []
+        inputs.append(FloatInput('Timestep'))
+        inputs.append(FloatInput('Discharge_line'))
+        inputs.append(FloatInput('Deposition_volume'))
+        inputs.append(FloatInput('Pond_volume'))
+        inputs.append(FloatInput('Pond_z'))
+        inputs.append(FloatInput('Disch_z'))
+        inputs.append(FloatInput('Min_pond_radius'))
+        return inputs
+
+    def get_output_columns(self):
+        outputs = []
+        outputs.append('Pond_elevation')
+        outputs.append('Beach_elevation')
+        outputs.append('Min distance from pump BAW')
+        return outputs
+    
+    def get_settings_columns(self):
+        settings = []
+
+        return settings
+        
+    def setup(self, UserParams, SheetSettings):
+        # load user params
+        with open('base_data.json','rb') as f:
+            data = json.load(f)
+            UserParams['Pond path'] = data['reclaim_path']
+            UserParams['Base_grid'] = data['base_grid']
+            UserParams['Tailings properties'] = data['tailings']
+            
+        self._pond_path_points = load_file_to_layer(UserParams['Pond path']).get_geometry().get_points_for_line(0)
+        
+    def process_deposition_result(self, run_directory='.'):
+        # get the elevation, ovlumes etc from the current directory
+        pth = os.path.join(run_directory, 'results.py')
+        if not os.path.exists(pth):
+            raise IOError('No output results exist in the specified directory')
+        r = {}
+        exec(open(pth, 'rt').read(), {}, r)
+        
+        return r['results']
+    
+    def archive_deposition_run(self, run_number, filelist):
+        target_dir = 'run_%02d' % run_number
+        self.write(target_dir)
+        self.write(os.path.exists(target_dir))
+        if os.path.exists(target_dir):
+            shutil.rmtree(target_dir)
+            
+        try:
+            os.mkdir(target_dir)
+        except Exception as e:
+            self.write(str(e))
+        
+        for f in filelist:
+            shutil.move(f, os.path.join(target_dir, f))
+        return target_dir
+        
+    def get_link_to_archive_file(self, run_no, filename):
+        target_dir = 'run_%02d' % run_no
+        return os.path.join(target_dir, filename)
+        
+    def cleanup(self, user_params):
+        # do any cleaning up
+        pass
+
+    def execute(self, UserParams, Inputs, Outputs, SheetSettings):
+        index = Inputs['_Index']
+        timestep = Inputs['Timestep']
+        discharge_line = Inputs['Discharge_line']
+        deposition_volume = Inputs['Deposition_volume']
+        pond_volume = Inputs['Pond_volume']
+        pond_z = Inputs['Pond_z']
+        disch_z = Inputs['Disch_z']
+        pond_radius = Inputs['Min_pond_radius']
+        
+        if index == 0:
+            base_grid = UserParams['Base_grid']
+        else:
+            base_grid = self.get_link_to_archive_file(index, 'output_grid.mgrid')
+        
+        with open('base_data.json','rb') as f:
+            data = json.load(f)
+            
+        with open('base_data.json','wb') as f:
+            data['latest_run_index']  = index + 1
+            json.dump(data,f)
+            
+        spigots = '../spigot-%d.mcurve' % discharge_line
+        
+        clear_graphics(without_asking=True)
+        
+        cmd = get_command('Single stream fixed pond volume, user flow path')
+        result = cmd({   'base': base_grid,
+            'deposition model': 'Single stream fixed pond volume, user flow path',
+            'dischargePoints': spigots,
+            'fluidVolume': pond_volume,
+            'initialDischargeElevation': disch_z,
+            'maxChange': 2.0,
+            'maxIterations': 40,
+            'maxPondElevation': 1095.0,
+            'maxPondElevationChange': 1.0,
+            'maxPondIterations': 20,
+            'pond': 'pond',
+            'pondElevation': pond_z,
+            'pondTolerance': 5.0,
+            'pond_location': (   -25679.360556, -920.739853, 933.507501),
+            'seCurveIncrement': 0.1,
+            'tailings': UserParams['Tailings properties'],
+            'tolerance': 1.0,
+            'tonnage': deposition_volume,
+            'verticalOffset': 0.0})
+            
+        if result['run_summary'] is None:
+            self.abort()
+            return None
+            
+        dep_result = self.process_deposition_result()
+        volume = dep_result['pipelines'][0]['total volume']
+        elev = dep_result['pipelines'][0]['discharge elevation']
+        pond_z = dep_result['pond_summary']['pond elevation']
+
+
+        # assign the outputs
+        Outputs['Pond_elevation'] = pond_z
+        Outputs['Beach_elevation'] = elev
+        
+        # create the pond circle
+        
+        pond_center = self.interpolate_z(self._pond_path_points, pond_z)
+        
+        #create circle
+        poly = vtk.vtkRegularPolygonSource()
+        poly.SetRadius(pond_radius)
+        poly.SetCenter(pond_center)
+        poly.SetNumberOfSides(40)
+        poly.Update()
+        writer = vtk.vtkPolyDataWriter()
+        writer.SetInputConnection(poly.GetOutputPort())
+        writer.SetFileName('target_pond.msurface')
+        writer.Update()
+        
+        load_file_to_layer('target_pond.msurface')
+        cmd = get_command('Assign style')
+        result = cmd({   'attribute': None,
+            'layers': [u'target_pond.msurface'],
+            'once': True,
+            'show_legend': True,
+            'style': u'target_pond'})
+
+        set_active_layer("target_pond.msurface")
+        # Parameters from dialog
+        cmd = get_command('Save current layer')
+        result = cmd({   'extension': u'msurface',
+            'filename': u'target_pond.msurface',
+            'overwrite': True,
+            'writer': u'msurface'})
+    
+        cmd = get_command('Reset view')
+        result = cmd({   })
+        
+        filelist = ['output_grid.mgrid', 'tailings_outline.mcurve', 'tailings_outline.mdrawable', 'pond_outline.mcurve', 'pond_outline.mdrawable', 'pond_surface.msurface', 'pond_surface.mdrawable', 'results.py', 'target_pond.msurface', 'target_pond.mdrawable', 
+       'tailings_results.mscene', 'discharge_points.mcurve', 'discharge_points.mdrawable', 'pond_location.mcurve', 'pond_location.mdrawable', 'pond.securve.csv', 'results.txt', 'results.xlsx', 'inputs.html',]
+        
+        target_folder = self.archive_deposition_run(index+1, filelist)
+        
+        # self.video.capture_frame(image_callback=None)
+        #self.write_output('
+        self.write('Finished run %d' % timestep)
+        
+        save_screencap('image-%d' % timestep, format='jpg', magnification=1, make_background_white=False)
+
+
+
+        cmd = get_command('Extract tailings beach')
+        result = cmd({   'baw': [255.0, 0.0, 0.0],
+            'bbw': [0.0, 255.0, 255.0],
+            'cutoff': 0.9999999,
+            'extract og': False,
+            'grid': [u'output_grid'],
+            'og': [0.0, 255.0, 0.0],
+            'pond_elevation': pond_z})
+        if get_layer_by_name('baw'):
+            cmd = get_command('Extract surface outline')
+            result = cmd({   'layer': u'baw_outline', 'surface': [u'baw']})
+            
+            px, py, pz = pond_center
+            pump_pl = PolyLine.From_Points([pond_center, (px+1,py+1, pz)])
+            add_to_scene('pump', pump_pl)
+            cmd = get_command('Find minimum distance between lines')
+            result = cmd({   'line1': [(u'pump', 0L)],
+                'line2': [(u'baw_outline', 0L)],
+                'max_search_distance': 1000.0})
+
+            min_distance_baw_to_pump = result['min_distance']
+        else:
+            min_distance_baw_to_pump = 1000
+            
+        Outputs['Min distance from pump BAW'] = min_distance_baw_to_pump 
+        clear_graphics(without_asking=True)
+        
+        cmd = get_command('Load scene')
+        result = cmd({   'filename': os.path.join(target_folder, 'tailings_results.mscene')})
+        load_file_to_layer(os.path.join(target_folder, 'target_pond.msurface'))
+
+        

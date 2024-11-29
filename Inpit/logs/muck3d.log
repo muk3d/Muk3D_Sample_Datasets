@@ -1,0 +1,253 @@
+muck3d::2024-11-28 15:59:21,553::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-9::Error running Run Excel model
+muck3d::2024-11-28 15:59:21,553::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-9::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\goldsim\commands\excel_model.pyo", line 619, in execute
+KeyError: 'limit_runs'
+muck3d::2024-11-28 15:59:21,555::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-9::Params: {'sheet': u'D:\\Muk3D\\Demos\\El_Gallo_demo\\base\\deposition_trial\\_test\\Inpit_deposition.xlsx', '__overlayCommand': True, 'start_at_row': 0, '_open_docs': [u'C:\\Users\\carlo\\Downloads\\SalesInvoices_MineBridge Software Inc._2024-Nov-15.05.50.16.csv', u'C:\\Users\\carlo\\Downloads\\SalesInvoices_Muk3D (Canada) Inc._2024-Nov-15.06.04.49.csv', u'Book1', u"C:\\Muk3D_Projects\\Demo\\Inpit\\base\\deposition_trial\\'Nov28\\Inpit_deposition.xlsx"], 'filename': u'Inpit.excelmodel', '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}}
+muck3d::2024-11-28 15:59:21,555::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-9::Muck3d version: v2023.1.8
+muck3d::2024-11-28 15:59:27,266::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-10::Error running Run Excel model
+muck3d::2024-11-28 15:59:27,267::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-10::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\goldsim\commands\excel_model.pyo", line 619, in execute
+KeyError: 'limit_runs'
+muck3d::2024-11-28 15:59:27,267::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-10::Params: {'sheet': u'D:\\Muk3D\\Demos\\El_Gallo_demo\\base\\deposition_trial\\_test\\Inpit_deposition.xlsx', '__overlayCommand': True, 'start_at_row': 0, '_open_docs': [u'C:\\Users\\carlo\\Downloads\\SalesInvoices_MineBridge Software Inc._2024-Nov-15.05.50.16.csv', u'C:\\Users\\carlo\\Downloads\\SalesInvoices_Muk3D (Canada) Inc._2024-Nov-15.06.04.49.csv', u'Book1', u"C:\\Muk3D_Projects\\Demo\\Inpit\\base\\deposition_trial\\'Nov28\\Inpit_deposition.xlsx"], 'filename': u'Inpit.excelmodel', '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}}
+muck3d::2024-11-28 15:59:27,267::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-10::Muck3d version: v2023.1.8
+muck3d::2024-11-28 16:00:03,483::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-13::Error running Run Excel model
+muck3d::2024-11-28 16:00:03,483::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-13::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\goldsim\commands\excel_model.pyo", line 619, in execute
+KeyError: 'limit_runs'
+muck3d::2024-11-28 16:00:03,483::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-13::Params: {'sheet': u'D:\\Muk3D\\Demos\\El_Gallo_demo\\base\\deposition_trial\\_test\\Inpit_deposition.xlsx', '__overlayCommand': True, 'start_at_row': 1, '_open_docs': [u'C:\\Users\\carlo\\Downloads\\SalesInvoices_MineBridge Software Inc._2024-Nov-15.05.50.16.csv', u'C:\\Users\\carlo\\Downloads\\SalesInvoices_Muk3D (Canada) Inc._2024-Nov-15.06.04.49.csv', u'Book1', u"C:\\Muk3D_Projects\\Demo\\Inpit\\base\\deposition_trial\\'Nov28\\Inpit_deposition.xlsx"], 'filename': u'Inpit.excelmodel', '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}}
+muck3d::2024-11-28 16:00:03,483::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-13::Muck3d version: v2023.1.8
+muck3d::2024-11-28 17:33:51,477::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-30::Error running Setup Excel model
+muck3d::2024-11-28 17:33:51,477::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-30::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\goldsim\commands\excel_model.pyo", line 374, in execute
+  File "muk3d\office\excel.pyo", line 135, in save_as
+ExcelError: You cannot save this workbook with the same name as another open workbook or add-in. Choose a different name, or close the other workbook or add-in before saving.
+muck3d::2024-11-28 17:33:51,477::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-30::Params: {'sheet': u'<create new...>', 'new_file_name': u'Inpit_deposition', '_open_docs': [u'C:\\Users\\carlo\\Downloads\\SalesInvoices_MineBridge Software Inc._2024-Nov-15.05.50.16.csv', u'C:\\Users\\carlo\\Downloads\\SalesInvoices_Muk3D (Canada) Inc._2024-Nov-15.06.04.49.csv', u'Book1', u"C:\\Muk3D_Projects\\Demo\\Inpit\\base\\deposition_trial\\'Nov28\\Inpit_deposition.xlsx"], 'filename': u'Input_deposition.excelmodel', 'generate_data': True, 'overwrite_io': True, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'rename_existing_id': True, 'generate_settings': False}
+muck3d::2024-11-28 17:33:51,477::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-30::Muck3d version: v2023.1.8
+muck3d::2024-11-28 17:54:26,885::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-39::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 17:54:26,885::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-39::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 154, in execute
+IOError: File '../discharge-001.mcurve' doesn't exist
+muck3d::2024-11-28 17:54:26,885::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-39::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../discharge-001.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': u'../../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', '_pointInPond': (-25679.360556, -920.739853, 933.507501), 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 944.217, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 948.0, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 17:54:26,885::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-39::Muck3d version: v2023.1.8
+muck3d::2024-11-28 17:54:54,056::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-38::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 17:54:54,056::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-38::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 157, in execute
+  File "plugins\ooze\commands\d4\disch_helpers.pyo", line 85, in runTailingsArea
+  File "plugins\ooze\util\deposition.pyo", line 1443, in execute
+  File "plugins\ooze\util\deposition.pyo", line 761, in execute
+  File "plugins\ooze\util\deposition.pyo", line 988, in _executeFixedTonnage
+  File "plugins\ooze\util\dischargegenerators.pyo", line 501, in getInitialDischargeElevation
+  File "plugins\ooze\util\dischargegenerators.pyo", line 481, in _createDischargePath
+IndexError: list index out of range
+muck3d::2024-11-28 17:54:54,056::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-38::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../discharge-001.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': u'../../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', '_pointInPond': (-25679.360556, -920.739853, 933.507501), 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 944.217, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 948.0, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 17:54:54,056::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-38::Muck3d version: v2023.1.8
+muck3d::2024-11-28 17:56:45,026::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-43::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 17:56:45,026::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-43::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 70, in execute
+  File "core\util\helper\help.pyo", line 664, in loadFile
+  File "core\util\io\registry.pyo", line 194, in load
+IOError: File '../grid-3+pit.mgrid' doesn't exist
+muck3d::2024-11-28 17:56:45,026::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-43::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../discharge-001.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': u'../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 944.217, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 948.0, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 17:56:45,026::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-43::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:00:42,414::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-44::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 18:00:42,414::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-44::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 157, in execute
+  File "plugins\ooze\commands\d4\disch_helpers.pyo", line 85, in runTailingsArea
+  File "plugins\ooze\util\deposition.pyo", line 1443, in execute
+  File "plugins\ooze\util\deposition.pyo", line 761, in execute
+  File "plugins\ooze\util\deposition.pyo", line 988, in _executeFixedTonnage
+  File "plugins\ooze\util\dischargegenerators.pyo", line 501, in getInitialDischargeElevation
+  File "plugins\ooze\util\dischargegenerators.pyo", line 481, in _createDischargePath
+IndexError: list index out of range
+muck3d::2024-11-28 18:00:42,414::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-44::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': u'../discharge-001.mcurve', 'maxChange': 5.0, 'base': u'../../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', 'maxPondElevation': 1095.0, 'use_direct_deposition': False, 'tailings': u'1%', 'pondElevation': 944.0, 'seCurveIncrement': 0.1, 'pondTolerance': 1.0, 'maxPondIterations': 20, '_pointInPond': (-25681.754495266705, -880.0428863268636, 933.3278497090961), 'initialDischargeElevation': 948.0, 'deposition model': 'Single stream fixed pond volume, user flow path', 'pond_location': (-25681.754495266705, -880.0428863268636, 933.3278497090961), 'maxPondElevationChange': 3.0, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tolerance': 1.0}
+muck3d::2024-11-28 18:00:42,414::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-44::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:02:00,854::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 18:02:13,299::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 18:02:21,553::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 18:02:29,842::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 18:06:03,267::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 18:06:56,420::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-49::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 18:06:56,420::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-49::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 70, in execute
+  File "core\util\helper\help.pyo", line 664, in loadFile
+  File "core\util\io\registry.pyo", line 194, in load
+IOError: File '../grid-3+pit.mgrid' doesn't exist
+muck3d::2024-11-28 18:06:56,421::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-49::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../spigot-1.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': u'../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 944.217, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 948.0, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 18:06:56,421::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-49::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:07:22,391::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-49::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 18:07:22,392::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-49::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 154, in execute
+IOError: File '../spigot-1.mcurve' doesn't exist
+muck3d::2024-11-28 18:07:22,392::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-49::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../spigot-1.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': u'../../grid-3+pit.mgrid', 'tonnage': 100000.0, 'pond': 'pond', '_pointInPond': (-25679.360556, -920.739853, 933.507501), 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 944.217, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 948.0, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 18:07:22,392::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-49::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:08:20,372::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-48::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 18:08:20,372::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-48::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 157, in execute
+  File "plugins\ooze\commands\d4\disch_helpers.pyo", line 85, in runTailingsArea
+  File "plugins\ooze\util\deposition.pyo", line 1422, in execute
+TypeError: float argument required, not NoneType
+muck3d::2024-11-28 18:08:20,372::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-48::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../spigot-2.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': 'run_00\\output_grid.mgrid', 'tonnage': 100000.0, 'pond': 'pond', '_pointInPond': (-25679.360556, -920.739853, 933.507501), 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': None, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': None, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 18:08:20,372::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-48::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:16:03,878::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-58::Error running Single stream fixed pond volume, user flow path
+muck3d::2024-11-28 18:16:03,878::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-58::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "plugins\ooze\commands\d4\templates.pyo", line 154, in execute
+IOError: File '../spigot-5.mcurve' doesn't exist
+muck3d::2024-11-28 18:16:03,878::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-58::Params: {'verticalOffset': 0.0, 'maxIterations': 40, 'fluidVolume': 60000.0, 'dischargePoints': '../spigot-5.mcurve', 'deposition model': 'Single stream fixed pond volume, user flow path', 'base': 'run_01\\output_grid.mgrid', 'tonnage': 100000.0, 'pond': 'pond', '_pointInPond': (-25679.360556, -920.739853, 933.507501), 'maxPondElevation': 1095.0, 'use_direct_deposition': False, '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'tailings': u'1%', 'pondElevation': 935.6760890116888, 'seCurveIncrement': 0.1, 'maxPondIterations': 20, '__overlayCommand': True, 'initialDischargeElevation': 939.8579218236338, 'maxChange': 2.0, 'pond_location': (-25679.360556, -920.739853, 933.507501), 'maxPondElevationChange': 1.0, 'pondTolerance': 5.0, 'tolerance': 1.0}
+muck3d::2024-11-28 18:16:03,878::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-58::Muck3d version: v2023.1.8
+muck3d::2024-11-28 18:44:10,191::CRITICAL::core\d3\panel3d.pyo::panel3d.pyo::panel3d::removeActor::1430::MainThread::eror  'NoneType' object has no attribute 'GetMapper' 
+muck3d::2024-11-28 20:49:02,783::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-85::Error running C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+muck3d::2024-11-28 20:49:02,783::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-85::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+ImportError: cannot import name get_tailings_names
+muck3d::2024-11-28 20:49:02,783::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-85::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': 'C:\\Muk3D_Projects\\Demo\\Inpit\\Scripts\\set_base_data_for_run.py'}
+muck3d::2024-11-28 20:49:02,783::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-85::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:14:59,256::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-90::Error running set_run_script.py
+muck3d::2024-11-28 21:14:59,256::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-90::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+KeyError: "   'end_at_row'"
+muck3d::2024-11-28 21:14:59,256::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-90::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:14:59,256::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-90::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:16:22,572::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-91::Error running set_run_script.py
+muck3d::2024-11-28 21:16:22,572::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-91::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+KeyError: "   'end_at_row'"
+muck3d::2024-11-28 21:16:22,572::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-91::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:16:22,572::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-91::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:17:36,450::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-93::Error running set_run_script.py
+muck3d::2024-11-28 21:17:36,450::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-93::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+KeyError: 'excelmodel'
+muck3d::2024-11-28 21:17:36,451::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-93::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:17:36,451::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-93::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:18:04,598::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-94::Error running set_run_script.py
+muck3d::2024-11-28 21:18:04,598::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-94::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+KeyError: "   'end_at_row'"
+muck3d::2024-11-28 21:18:04,598::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-94::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:18:04,598::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-94::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:18:43,286::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-95::Error running set_run_script.py
+muck3d::2024-11-28 21:18:43,286::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-95::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+KeyError: "   'end_at_row'"
+muck3d::2024-11-28 21:18:43,286::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-95::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:18:43,286::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-95::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:23:24,763::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-101::Error running Find minimum distance between lines
+muck3d::2024-11-28 21:23:24,763::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-101::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\commands\curve\line_distance.pyo", line 126, in execute
+TypeError: a float is required
+muck3d::2024-11-28 21:23:24,763::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-101::Params: {'__overlayCommand': True, 'line2': [(u'baw_outline', 0L)], 'line1': [(u'pump', 0L)], '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'max_search_distance': 1000.0}
+muck3d::2024-11-28 21:23:24,763::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-101::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:32:03,845::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-110::Error running set_run_script.py
+muck3d::2024-11-28 21:32:03,845::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-110::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+  File "set_run_script.py", line 55
+    f.write("""
+        
+import json
+with open('base_data.json', 'rt') as f:
+    data = json.load(f)
+    run_index = data['run_index']
+    
+cmd = get_command('Run Excel model')
+result = cmd({{   'end_at_row': run_index,
+    'filename': '{excelmodel}',
+    'limit_runs': True,
+    'resource_directory': os.path.abspath('.'),
+    'sheet': os.path.abspath('{excelsheet}'),
+    'start_at_row': run_index,
+    'start_directory': os.path.abspath('.')
+    }})
+              
+        
+           
+                                       
+                       
+                                 
+    
+                                    
+                                          
+                               
+                       
+                                               
+                                             
+                              
+                                           
+       ^
+SyntaxError: EOF while scanning triple-quoted string literal
+muck3d::2024-11-28 21:32:03,845::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-110::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'set_run_script.py'}
+muck3d::2024-11-28 21:32:03,845::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-110::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:42:33,384::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-127::Error running Find minimum distance between lines
+muck3d::2024-11-28 21:42:33,384::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-127::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\commands\curve\line_distance.pyo", line 126, in execute
+TypeError: a float is required
+muck3d::2024-11-28 21:42:33,384::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-127::Params: {'__overlayCommand': True, 'line2': [(u'baw_outline', 0L)], 'line1': [(u'pump', 0L)], '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'max_search_distance': 1000.0}
+muck3d::2024-11-28 21:42:33,384::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-127::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:51:01,348::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-132::Error running show_current_run.py
+muck3d::2024-11-28 21:51:01,348::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-132::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+  File "show_current_run.py", line 8
+    print 'Current run is ', run_no
+                                  ^
+IndentationError: unindent does not match any outer indentation level
+muck3d::2024-11-28 21:51:01,348::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-132::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'show_current_run.py'}
+muck3d::2024-11-28 21:51:01,348::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-132::Muck3d version: v2023.1.8
+muck3d::2024-11-28 21:53:13,440::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-138::Error running Find minimum distance between lines
+muck3d::2024-11-28 21:53:13,440::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-138::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\commands\curve\line_distance.pyo", line 126, in execute
+TypeError: a float is required
+muck3d::2024-11-28 21:53:13,440::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-138::Params: {'__overlayCommand': True, 'line2': [(u'baw_outline', 0L)], 'line1': [(u'pump', 0L)], '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'max_search_distance': 1000.0}
+muck3d::2024-11-28 21:53:13,440::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-138::Muck3d version: v2023.1.8
+muck3d::2024-11-28 22:20:21,545::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-144::Error running Find minimum distance between lines
+muck3d::2024-11-28 22:20:21,545::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-144::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "patch_distance.py", line 104, in execute
+TypeError: a float is required
+muck3d::2024-11-28 22:20:21,545::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-144::Params: {'__overlayCommand': True, 'line2': [(u'baw_outline', 0L)], 'line1': [(u'pump', 0L)], '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'max_search_distance': 1000.0}
+muck3d::2024-11-28 22:20:21,545::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-144::Muck3d version: v2023.1.8
+muck3d::2024-11-28 22:21:56,017::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-147::Error running Find minimum distance between lines
+muck3d::2024-11-28 22:21:56,017::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-147::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "patch_distance.py", line 104, in execute
+TypeError: a float is required
+muck3d::2024-11-28 22:21:56,017::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-147::Params: {'__overlayCommand': True, 'line2': [(u'baw_outline', 0L)], 'line1': [(u'pump', 0L)], '_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'max_search_distance': 1000.0}
+muck3d::2024-11-28 22:21:56,017::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-147::Muck3d version: v2023.1.8
+muck3d::2024-11-28 23:30:26,233::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-213::Error running run_everything.py
+muck3d::2024-11-28 23:30:26,234::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-213::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+  File "run_everything.py", line 6
+    'filename': 'Input_deposition.excelmodel,
+                                            ^
+SyntaxError: EOL while scanning string literal
+muck3d::2024-11-28 23:30:26,234::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-213::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'run_everything.py'}
+muck3d::2024-11-28 23:30:26,234::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-213::Muck3d version: v2023.1.8
+muck3d::2024-11-28 23:30:37,742::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::98::Dummy-214::Error running run_everything.py
+muck3d::2024-11-28 23:30:37,742::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::99::Dummy-214::Traceback (most recent call last):
+  File "core\util\command\cmd_2.pyo", line 94, in run
+  File "core\util\macro\script.pyo", line 649, in execute
+NameError: name 'Inpit_deposition_2024' is not defined
+muck3d::2024-11-28 23:30:37,742::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::100::Dummy-214::Params: {'_keyModifiers': {'shift': 0, 'alt': 0, 'ctrl': 0}, 'scriptFile': u'run_everything.py'}
+muck3d::2024-11-28 23:30:37,742::CRITICAL::core\util\command\cmd_2.pyo::cmd_2.pyo::cmd_2::run::101::Dummy-214::Muck3d version: v2023.1.8

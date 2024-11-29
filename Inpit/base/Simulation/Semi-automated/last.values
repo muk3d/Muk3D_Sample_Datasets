@@ -1,0 +1,19 @@
+[Deposition]
+verticalOffset=F0.0\n.
+maxIterations=I40\n.
+fluidVolume=F60000.0\n.
+dischargePoints=V../discharge-001.mcurve\np0\n.
+maxChange=F5.0\n.
+base=V../../grid-3+pit.mgrid\np0\n.
+tonnage=F100000.0\n.
+pond=VChoose pond manually...\np0\n.
+maxPondElevation=F1095.0\n.
+use_direct_deposition=I00\n.
+tailings=V1%\np0\n.
+pondElevation=F944.0\n.
+pondTolerance=F1.0\n.
+maxPondIterations=I20\n.
+initialDischargeElevation=F948.0\n.
+deposition%20model="S'Single stream fixed pond volume, user flow path'\np0\n."
+maxPondElevationChange=F3.0\n.
+tolerance=F1.0\n.

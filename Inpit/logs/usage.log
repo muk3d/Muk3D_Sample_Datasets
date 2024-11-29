@@ -1,0 +1,2417 @@
+2024-11-20 12:25:20,529::end:New project
+2024-11-20 12:25:29,894::start:Open geometry
+2024-11-20 12:25:30,599::end:Open geometry
+2024-11-20 12:25:31,378::start:Drape world file
+2024-11-20 12:25:32,506::end:Drape world file
+2024-11-20 19:49:58,937::start:Clear graphics
+2024-11-20 19:49:59,006::end:Clear graphics
+2024-11-20 19:50:00,654::start:Open geometry
+2024-11-20 19:50:01,130::end:Open geometry
+2024-11-20 19:50:06,384::start:Open geometry
+2024-11-20 19:50:06,717::end:Open geometry
+2024-11-20 19:50:09,839::start:Reset view
+2024-11-20 19:50:09,846::end:Reset view
+2024-11-20 20:10:53,164::start:Reset view
+2024-11-20 20:10:53,194::end:Reset view
+2024-11-20 20:47:46,134::start:Open geometry
+2024-11-20 20:47:46,256::end:Open geometry
+2024-11-20 20:47:50,999::start:Open geometry
+2024-11-20 20:47:51,802::end:Open geometry
+2024-11-20 20:49:59,369::start:Create projection file from EPSG code
+2024-11-20 20:50:12,799::end:Create projection file from EPSG code
+2024-11-20 20:50:23,351::start:Reproject selected layers
+2024-11-20 20:50:31,308::end:Reproject selected layers
+2024-11-20 20:51:08,788::start:Unload current layer
+2024-11-20 20:51:08,799::end:Unload current layer
+2024-11-20 20:51:14,717::start:Reproject selected layers
+2024-11-20 20:51:23,795::end:Reproject selected layers
+2024-11-20 20:51:35,424::start:Open geometry
+2024-11-20 20:51:35,476::end:Open geometry
+2024-11-20 20:51:57,072::start:Reproject selected layers
+2024-11-20 20:52:03,572::end:Reproject selected layers
+2024-11-20 20:54:52,263::start:Clear graphics
+2024-11-20 20:54:53,779::end:Clear graphics
+2024-11-28 14:04:15,888::end:Open project
+2024-11-28 15:55:36,128::start:Open geometry
+2024-11-28 15:55:36,270::end:Open geometry
+2024-11-28 15:55:40,322::start:Open geometry
+2024-11-28 15:55:40,915::end:Open geometry
+2024-11-28 15:55:41,815::start:Export scene to DWG
+2024-11-28 15:55:43,017::end:Export scene to DWG
+2024-11-28 15:55:43,726::start:Clear graphics
+2024-11-28 15:55:43,766::end:Clear graphics
+2024-11-28 15:55:45,302::start:Open geometry
+2024-11-28 15:55:45,802::end:Open geometry
+2024-11-28 15:55:48,582::start:Clear graphics
+2024-11-28 15:55:48,617::end:Clear graphics
+2024-11-28 15:55:49,973::start:Open geometry
+2024-11-28 15:55:50,782::end:Open geometry
+2024-11-28 15:57:05,582::start:_set_base_data.py
+2024-11-28 15:57:13,693::end:_set_base_data.py
+2024-11-28 15:57:29,924::start:_set_base_data.py
+2024-11-28 15:57:33,910::end:_set_base_data.py
+2024-11-28 15:57:48,992::start:_set_base_data.py
+2024-11-28 15:58:03,844::end:_set_base_data.py
+2024-11-28 15:58:40,131::start:_run_model.py
+2024-11-28 15:58:40,132::start:Run Excel model
+2024-11-28 15:58:40,155::end:Run Excel model
+2024-11-28 15:58:40,157::end:_run_model.py
+2024-11-28 15:59:21,493::start:C:\Muk3D_Projects\Demo\Inpit\Scripts\_run_model.py
+2024-11-28 15:59:21,500::start:Run Excel model
+2024-11-28 15:59:21,555::end:Run Excel model
+2024-11-28 15:59:21,555::end:C:\Muk3D_Projects\Demo\Inpit\Scripts\_run_model.py
+2024-11-28 15:59:27,237::start:_run_model.py
+2024-11-28 15:59:27,239::start:Run Excel model
+2024-11-28 15:59:27,267::end:Run Excel model
+2024-11-28 15:59:27,267::end:_run_model.py
+2024-11-28 16:00:01,316::start:_increment_run.py
+2024-11-28 16:00:01,319::end:_increment_run.py
+2024-11-28 16:00:03,453::start:_run_model.py
+2024-11-28 16:00:03,454::start:Run Excel model
+2024-11-28 16:00:03,484::end:Run Excel model
+2024-11-28 16:00:03,484::end:_run_model.py
+2024-11-28 16:00:16,625::start:Run Excel model
+2024-11-28 16:00:19,928::end:Run Excel model
+2024-11-28 16:00:23,177::start:Record macro
+2024-11-28 16:00:25,078::end:Record macro
+2024-11-28 16:00:28,276::start:Run Excel model
+2024-11-28 16:00:38,267::end:Run Excel model
+2024-11-28 16:00:42,571::start:Run Excel model
+2024-11-28 16:00:55,464::end:Run Excel model
+2024-11-28 16:01:45,177::start:End macro recording
+2024-11-28 16:01:45,187::end:End macro recording
+2024-11-28 16:02:53,089::start:_run_model.py
+2024-11-28 16:02:53,092::start:Run Excel model
+2024-11-28 16:02:53,299::end:Run Excel model
+2024-11-28 16:02:53,299::end:_run_model.py
+2024-11-28 16:03:43,220::start:_run_model.py
+2024-11-28 16:03:43,221::start:Run Excel model
+2024-11-28 16:03:43,378::end:Run Excel model
+2024-11-28 16:03:43,378::end:_run_model.py
+2024-11-28 16:04:11,673::start:_run_model.py
+2024-11-28 16:04:11,674::start:Run Excel model
+2024-11-28 16:04:11,680::end:Run Excel model
+2024-11-28 16:04:11,680::end:_run_model.py
+2024-11-28 16:04:29,019::start:_run_model.py
+2024-11-28 16:04:29,019::start:Run Excel model
+2024-11-28 16:04:29,165::end:Run Excel model
+2024-11-28 16:04:29,165::end:_run_model.py
+2024-11-28 16:04:50,811::start:_run_model.py
+2024-11-28 16:04:50,812::start:Run Excel model
+2024-11-28 16:04:50,966::end:Run Excel model
+2024-11-28 16:04:50,966::end:_run_model.py
+2024-11-28 16:05:38,624::start:_run_model.py
+2024-11-28 16:05:38,627::start:Run Excel model
+2024-11-28 16:05:38,766::end:Run Excel model
+2024-11-28 16:05:38,766::end:_run_model.py
+2024-11-28 16:05:48,180::start:_increment_run.py
+2024-11-28 16:05:48,181::end:_increment_run.py
+2024-11-28 16:05:49,802::start:_run_model.py
+2024-11-28 16:05:49,802::start:Run Excel model
+2024-11-28 16:05:49,951::end:Run Excel model
+2024-11-28 16:05:49,951::end:_run_model.py
+2024-11-28 16:06:46,601::start:_run_model.py
+2024-11-28 16:06:46,604::start:Run Excel model
+2024-11-28 16:06:46,772::end:Run Excel model
+2024-11-28 16:06:46,772::end:_run_model.py
+2024-11-28 17:30:00,846::start:C:\Muk3D_Projects\Demo\Inpit\Scripts\_set_base_data.py
+2024-11-28 17:30:19,555::end:C:\Muk3D_Projects\Demo\Inpit\Scripts\_set_base_data.py
+2024-11-28 17:30:46,532::start:Define a new Excel model
+2024-11-28 17:30:59,210::end:Define a new Excel model
+2024-11-28 17:33:38,355::start:Setup Excel model
+2024-11-28 17:33:51,479::end:Setup Excel model
+2024-11-28 17:34:06,992::start:Setup Excel model
+2024-11-28 17:34:13,750::end:Setup Excel model
+2024-11-28 17:37:14,923::start:Clear graphics
+2024-11-28 17:37:14,961::end:Clear graphics
+2024-11-28 17:37:16,869::start:Setup Excel model
+2024-11-28 17:37:21,653::end:Setup Excel model
+2024-11-28 17:38:09,516::start:Setup Excel model
+2024-11-28 17:38:24,509::end:Setup Excel model
+2024-11-28 17:49:38,487::start:Setup Excel model
+2024-11-28 17:49:47,585::end:Setup Excel model
+2024-11-28 17:52:02,132::start:Run Excel model
+2024-11-28 17:52:14,446::end:Run Excel model
+2024-11-28 17:53:05,871::start:Run Excel model
+2024-11-28 17:53:08,767::start:Single stream fixed pond volume, user flow path
+2024-11-28 17:53:08,881::end:Single stream fixed pond volume, user flow path
+2024-11-28 17:53:08,892::end:Run Excel model
+2024-11-28 17:53:21,085::start:Open geometry
+2024-11-28 17:53:21,621::end:Open geometry
+2024-11-28 17:53:26,358::start:Find maximum containment elevation
+2024-11-28 17:53:31,457::end:Find maximum containment elevation
+2024-11-28 17:53:46,434::start:Clear graphics
+2024-11-28 17:53:46,535::end:Clear graphics
+2024-11-28 17:53:49,081::start:Run Excel model
+2024-11-28 17:53:51,782::start:Single stream fixed pond volume, user flow path
+2024-11-28 17:53:51,926::end:Single stream fixed pond volume, user flow path
+2024-11-28 17:53:51,930::end:Run Excel model
+2024-11-28 17:54:03,062::start:Open geometry
+2024-11-28 17:54:03,624::end:Open geometry
+2024-11-28 17:54:15,257::start:Save current layer
+2024-11-28 17:54:16,756::end:Save current layer
+2024-11-28 17:54:23,338::start:Run Excel model
+2024-11-28 17:54:26,621::start:Single stream fixed pond volume, user flow path
+2024-11-28 17:54:26,885::end:Single stream fixed pond volume, user flow path
+2024-11-28 17:54:26,892::end:Run Excel model
+2024-11-28 17:54:50,338::start:Run Excel model
+2024-11-28 17:54:53,121::start:Single stream fixed pond volume, user flow path
+2024-11-28 17:54:54,058::end:Single stream fixed pond volume, user flow path
+2024-11-28 17:54:54,062::end:Run Excel model
+2024-11-28 17:55:28,019::start:Open geometry
+2024-11-28 17:55:28,713::end:Open geometry
+2024-11-28 17:56:37,023::start:Run Excel model
+2024-11-28 17:56:45,026::start:Single stream fixed pond volume, user flow path
+2024-11-28 17:56:45,028::end:Single stream fixed pond volume, user flow path
+2024-11-28 17:56:45,032::end:Run Excel model
+2024-11-28 17:57:07,240::start:Record macro
+2024-11-28 17:57:08,030::end:Record macro
+2024-11-28 17:57:13,581::start:Execute last deposition run
+2024-11-28 17:57:13,584::end:Execute last deposition run
+2024-11-28 17:57:27,420::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:00:42,417::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:00:59,138::start:Open geometry
+2024-11-28 18:01:00,023::end:Open geometry
+2024-11-28 18:01:01,101::start:End macro recording
+2024-11-28 18:01:01,121::end:End macro recording
+2024-11-28 18:01:13,977::start:Draw a line
+2024-11-28 18:02:01,105::end:Draw a line
+2024-11-28 18:02:01,565::start:Draw a line
+2024-11-28 18:02:13,421::end:Draw a line
+2024-11-28 18:02:14,861::start:Draw a line
+2024-11-28 18:02:21,688::end:Draw a line
+2024-11-28 18:02:22,950::start:Draw a line
+2024-11-28 18:02:29,977::end:Draw a line
+2024-11-28 18:02:31,262::start:Save current layer
+2024-11-28 18:02:36,232::end:Save current layer
+2024-11-28 18:02:37,792::start:Save current layer
+2024-11-28 18:02:38,447::end:Save current layer
+2024-11-28 18:02:39,630::start:Save current layer
+2024-11-28 18:02:40,213::end:Save current layer
+2024-11-28 18:02:42,369::start:Save current layer
+2024-11-28 18:02:43,128::end:Save current layer
+2024-11-28 18:02:44,898::start:Clear graphics
+2024-11-28 18:02:45,108::end:Clear graphics
+2024-11-28 18:03:31,394::start:Open geometry
+2024-11-28 18:03:31,493::end:Open geometry
+2024-11-28 18:03:35,953::start:Open geometry
+2024-11-28 18:03:36,648::end:Open geometry
+2024-11-28 18:03:42,546::start:Draw a line
+2024-11-28 18:06:03,398::end:Draw a line
+2024-11-28 18:06:06,368::start:Save current layer
+2024-11-28 18:06:09,063::end:Save current layer
+2024-11-28 18:06:15,151::start:Clear graphics
+2024-11-28 18:06:15,234::end:Clear graphics
+2024-11-28 18:06:51,598::start:Run Excel model
+2024-11-28 18:06:56,418::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:06:56,421::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:06:56,426::end:Run Excel model
+2024-11-28 18:07:04,016::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:07:14,395::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:07:15,417::start:Save current layer
+2024-11-28 18:07:15,437::end:Save current layer
+2024-11-28 18:07:19,529::start:Run Excel model
+2024-11-28 18:07:22,053::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:07:22,392::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:07:22,397::end:Run Excel model
+2024-11-28 18:07:45,085::start:Run Excel model
+2024-11-28 18:07:48,388::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:08:19,654::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:08:19,756::start:Save current layer
+2024-11-28 18:08:19,759::end:Save current layer
+2024-11-28 18:08:19,759::start:Reset view
+2024-11-28 18:08:19,779::end:Reset view
+2024-11-28 18:08:19,997::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:08:20,372::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:08:20,378::end:Run Excel model
+2024-11-28 18:08:40,548::start:Style manager
+2024-11-28 18:08:59,512::end:Style manager
+2024-11-28 18:09:57,309::start:Run Excel model
+2024-11-28 18:10:01,177::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:33,861::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:33,967::start:Save current layer
+2024-11-28 18:10:33,970::end:Save current layer
+2024-11-28 18:10:33,970::start:Reset view
+2024-11-28 18:10:33,990::end:Reset view
+2024-11-28 18:10:34,198::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:42,020::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:42,119::start:Save current layer
+2024-11-28 18:10:42,122::end:Save current layer
+2024-11-28 18:10:42,122::start:Reset view
+2024-11-28 18:10:42,161::end:Reset view
+2024-11-28 18:10:42,401::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:50,069::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:10:50,164::start:Save current layer
+2024-11-28 18:10:50,167::end:Save current layer
+2024-11-28 18:10:50,167::start:Reset view
+2024-11-28 18:10:50,188::end:Reset view
+2024-11-28 18:10:50,403::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:11:02,053::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:11:02,157::start:Save current layer
+2024-11-28 18:11:02,161::end:Save current layer
+2024-11-28 18:11:02,161::start:Reset view
+2024-11-28 18:11:02,181::end:Reset view
+2024-11-28 18:11:02,421::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:11:23,496::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:11:23,608::start:Save current layer
+2024-11-28 18:11:23,611::end:Save current layer
+2024-11-28 18:11:23,611::start:Reset view
+2024-11-28 18:11:23,630::end:Reset view
+2024-11-28 18:11:23,782::end:Run Excel model
+2024-11-28 18:12:04,980::start:Clear graphics
+2024-11-28 18:12:05,132::end:Clear graphics
+2024-11-28 18:12:12,049::start:Open geometry
+2024-11-28 18:12:12,585::end:Open geometry
+2024-11-28 18:12:13,776::start:Open geometry
+2024-11-28 18:12:13,901::end:Open geometry
+2024-11-28 18:12:20,529::start:Open geometry
+2024-11-28 18:12:20,651::end:Open geometry
+2024-11-28 18:12:32,947::start:Open geometry
+2024-11-28 18:12:33,105::end:Open geometry
+2024-11-28 18:12:34,243::start:Open geometry
+2024-11-28 18:12:34,368::end:Open geometry
+2024-11-28 18:13:32,733::start:Clear graphics
+2024-11-28 18:13:36,480::end:Clear graphics
+2024-11-28 18:13:37,773::start:Open geometry
+2024-11-28 18:13:38,375::end:Open geometry
+2024-11-28 18:13:39,285::start:Open geometry
+2024-11-28 18:13:39,523::end:Open geometry
+2024-11-28 18:15:12,698::start:Clear graphics
+2024-11-28 18:15:12,775::end:Clear graphics
+2024-11-28 18:15:16,216::start:Record macro
+2024-11-28 18:15:24,226::end:Record macro
+2024-11-28 18:15:26,312::start:Run Excel model
+2024-11-28 18:15:33,562::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:15:46,951::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:15:47,049::start:Save current layer
+2024-11-28 18:15:47,053::end:Save current layer
+2024-11-28 18:15:47,053::start:Reset view
+2024-11-28 18:15:47,102::end:Reset view
+2024-11-28 18:15:47,346::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:16:03,160::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:16:03,259::start:Save current layer
+2024-11-28 18:16:03,263::end:Save current layer
+2024-11-28 18:16:03,263::start:Reset view
+2024-11-28 18:16:03,289::end:Reset view
+2024-11-28 18:16:03,529::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:16:03,880::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:16:03,888::end:Run Excel model
+2024-11-28 18:16:18,611::start:End macro recording
+2024-11-28 18:16:18,638::end:End macro recording
+2024-11-28 18:17:38,428::start:Clear graphics
+2024-11-28 18:17:38,480::end:Clear graphics
+2024-11-28 18:17:42,016::start:_run_model.py
+2024-11-28 18:17:42,019::start:Run Excel model
+2024-11-28 18:17:42,131::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:17:55,155::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:17:55,259::start:Save current layer
+2024-11-28 18:17:55,262::end:Save current layer
+2024-11-28 18:17:55,263::start:Reset view
+2024-11-28 18:17:55,289::end:Reset view
+2024-11-28 18:17:55,500::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:11,404::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:11,503::start:Save current layer
+2024-11-28 18:18:11,506::end:Save current layer
+2024-11-28 18:18:11,506::start:Reset view
+2024-11-28 18:18:11,526::end:Reset view
+2024-11-28 18:18:11,736::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:25,049::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:25,148::start:Save current layer
+2024-11-28 18:18:25,151::end:Save current layer
+2024-11-28 18:18:25,151::start:Reset view
+2024-11-28 18:18:25,180::end:Reset view
+2024-11-28 18:18:25,403::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:41,039::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:41,141::start:Save current layer
+2024-11-28 18:18:41,144::end:Save current layer
+2024-11-28 18:18:41,144::start:Reset view
+2024-11-28 18:18:41,171::end:Reset view
+2024-11-28 18:18:41,388::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:59,316::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:18:59,417::start:Save current layer
+2024-11-28 18:18:59,420::end:Save current layer
+2024-11-28 18:18:59,421::start:Reset view
+2024-11-28 18:18:59,440::end:Reset view
+2024-11-28 18:18:59,647::end:Run Excel model
+2024-11-28 18:18:59,647::end:_run_model.py
+2024-11-28 18:19:10,325::start:Run Excel model
+2024-11-28 18:19:19,740::start:Single stream fixed pond volume, user flow path
+2024-11-28 18:19:37,484::end:Single stream fixed pond volume, user flow path
+2024-11-28 18:19:37,585::start:Save current layer
+2024-11-28 18:19:37,586::end:Save current layer
+2024-11-28 18:19:37,586::start:Reset view
+2024-11-28 18:19:37,628::end:Reset view
+2024-11-28 18:19:37,762::end:Run Excel model
+2024-11-28 18:27:30,559::start:Tailings database
+2024-11-28 18:41:16,999::end:Tailings database
+2024-11-28 18:41:22,450::start:Open geometry
+2024-11-28 18:41:24,030::end:Open geometry
+2024-11-28 18:42:06,006::start:Record macro
+2024-11-28 18:42:07,967::end:Record macro
+2024-11-28 18:42:15,522::start:Extract tailings beach
+2024-11-28 18:42:28,811::end:Extract tailings beach
+2024-11-28 18:42:30,812::start:End macro recording
+2024-11-28 18:42:30,888::end:End macro recording
+2024-11-28 18:42:42,240::start:Record macro
+2024-11-28 18:42:44,424::end:Record macro
+2024-11-28 18:42:59,022::start:Extract surface outline
+2024-11-28 18:43:06,352::end:Extract surface outline
+2024-11-28 18:43:07,831::start:End macro recording
+2024-11-28 18:43:07,858::end:End macro recording
+2024-11-28 18:44:02,295::start:Draw a line
+2024-11-28 18:44:10,328::end:Draw a line
+2024-11-28 18:44:25,312::start:Record macro
+2024-11-28 18:44:29,342::end:Record macro
+2024-11-28 18:44:39,638::start:Find minimum distance between lines
+2024-11-28 18:44:48,585::end:Find minimum distance between lines
+2024-11-28 18:44:52,256::start:End macro recording
+2024-11-28 18:44:52,289::end:End macro recording
+2024-11-28 18:44:59,490::start:Unload current layer
+2024-11-28 18:44:59,503::end:Unload current layer
+2024-11-28 18:44:59,973::start:Unload current layer
+2024-11-28 18:44:59,983::end:Unload current layer
+2024-11-28 18:45:12,986::start:cc.py
+2024-11-28 18:45:12,986::start:Find minimum distance between lines
+2024-11-28 18:45:13,339::end:Find minimum distance between lines
+2024-11-28 18:45:13,341::end:cc.py
+2024-11-28 19:59:21,059::start:Show Python API docs
+2024-11-28 19:59:21,151::end:Show Python API docs
+2024-11-28 20:01:58,493::start:Record macro
+2024-11-28 20:01:59,391::end:Record macro
+2024-11-28 20:02:10,703::start:Open geometry
+2024-11-28 20:02:12,223::end:Open geometry
+2024-11-28 20:02:14,040::start:Style manager
+2024-11-28 20:02:14,913::end:Style manager
+2024-11-28 20:02:17,332::start:Assign style
+2024-11-28 20:02:18,035::end:Assign style
+2024-11-28 20:02:19,569::start:End macro recording
+2024-11-28 20:02:19,657::end:End macro recording
+2024-11-28 20:02:55,759::start:Save current layer
+2024-11-28 20:02:56,799::end:Save current layer
+2024-11-28 20:02:57,813::start:Clear graphics
+2024-11-28 20:02:58,073::end:Clear graphics
+2024-11-28 20:03:21,507::start:_run_model.py
+2024-11-28 20:03:21,509::start:Run Excel model
+2024-11-28 20:03:21,517::end:Run Excel model
+2024-11-28 20:03:21,517::end:_run_model.py
+2024-11-28 20:03:47,732::start:_run_model.py
+2024-11-28 20:03:47,733::start:Run Excel model
+2024-11-28 20:03:47,845::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:04:00,835::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:04:00,964::start:Assign style
+2024-11-28 20:04:00,977::end:Assign style
+2024-11-28 20:04:00,977::start:Reset view
+2024-11-28 20:04:00,993::end:Reset view
+2024-11-28 20:04:01,059::start:Extract tailings beach
+2024-11-28 20:04:01,267::end:Extract tailings beach
+2024-11-28 20:04:01,267::start:Extract surface outline
+2024-11-28 20:04:49,211::end:Extract surface outline
+2024-11-28 20:04:49,232::start:Find minimum distance between lines
+2024-11-28 20:04:49,911::end:Find minimum distance between lines
+2024-11-28 20:04:49,940::end:Run Excel model
+2024-11-28 20:04:49,940::end:_run_model.py
+2024-11-28 20:04:54,744::start:Clear graphics
+2024-11-28 20:04:54,927::end:Clear graphics
+2024-11-28 20:05:12,573::start:_run_model.py
+2024-11-28 20:05:12,575::start:Run Excel model
+2024-11-28 20:05:12,683::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:05:26,345::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:05:26,476::start:Assign style
+2024-11-28 20:05:26,486::end:Assign style
+2024-11-28 20:05:26,486::start:Reset view
+2024-11-28 20:05:26,506::end:Reset view
+2024-11-28 20:05:26,615::start:Extract tailings beach
+2024-11-28 20:05:26,924::end:Extract tailings beach
+2024-11-28 20:05:26,934::end:Run Excel model
+2024-11-28 20:05:26,934::end:_run_model.py
+2024-11-28 20:07:08,835::start:Clear graphics
+2024-11-28 20:07:11,549::end:Clear graphics
+2024-11-28 20:07:12,740::start:_run_model.py
+2024-11-28 20:07:12,742::start:Run Excel model
+2024-11-28 20:07:12,855::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:07:26,681::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:07:26,815::start:Assign style
+2024-11-28 20:07:26,825::end:Assign style
+2024-11-28 20:07:26,825::start:Reset view
+2024-11-28 20:07:26,838::end:Reset view
+2024-11-28 20:07:26,921::start:Extract tailings beach
+2024-11-28 20:07:27,210::end:Extract tailings beach
+2024-11-28 20:07:27,210::start:Extract surface outline
+2024-11-28 20:07:27,305::end:Extract surface outline
+2024-11-28 20:07:27,305::start:Find minimum distance between lines
+2024-11-28 20:10:01,625::end:Find minimum distance between lines
+2024-11-28 20:10:01,653::end:Run Excel model
+2024-11-28 20:10:01,654::end:_run_model.py
+2024-11-28 20:10:04,805::start:Clear graphics
+2024-11-28 20:10:04,993::end:Clear graphics
+2024-11-28 20:10:06,420::start:_run_model.py
+2024-11-28 20:10:06,421::start:Run Excel model
+2024-11-28 20:10:06,529::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:10:19,934::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:10:20,065::start:Assign style
+2024-11-28 20:10:20,078::end:Assign style
+2024-11-28 20:10:20,078::start:Reset view
+2024-11-28 20:10:20,095::end:Reset view
+2024-11-28 20:10:20,158::start:Extract tailings beach
+2024-11-28 20:10:20,454::end:Extract tailings beach
+2024-11-28 20:10:20,454::start:Extract surface outline
+2024-11-28 20:10:20,545::end:Extract surface outline
+2024-11-28 20:10:20,635::start:Find minimum distance between lines
+2024-11-28 20:10:46,460::end:Find minimum distance between lines
+2024-11-28 20:10:46,484::end:Run Excel model
+2024-11-28 20:10:46,486::end:_run_model.py
+2024-11-28 20:10:47,897::start:Clear graphics
+2024-11-28 20:10:48,094::end:Clear graphics
+2024-11-28 20:10:49,421::start:_run_model.py
+2024-11-28 20:10:49,424::start:Run Excel model
+2024-11-28 20:10:49,532::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:11:02,617::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:11:02,742::start:Assign style
+2024-11-28 20:11:02,752::end:Assign style
+2024-11-28 20:11:02,752::start:Reset view
+2024-11-28 20:11:02,767::end:Reset view
+2024-11-28 20:11:02,875::start:Extract tailings beach
+2024-11-28 20:11:03,177::end:Extract tailings beach
+2024-11-28 20:11:03,177::start:Extract surface outline
+2024-11-28 20:11:03,272::end:Extract surface outline
+2024-11-28 20:11:03,368::start:Find minimum distance between lines
+2024-11-28 20:11:04,016::end:Find minimum distance between lines
+2024-11-28 20:11:04,032::end:Run Excel model
+2024-11-28 20:11:04,033::end:_run_model.py
+2024-11-28 20:12:06,555::start:Clear graphics
+2024-11-28 20:12:06,813::end:Clear graphics
+2024-11-28 20:12:08,365::start:_run_model.py
+2024-11-28 20:12:08,365::start:Run Excel model
+2024-11-28 20:12:08,483::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:22,098::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:22,230::start:Assign style
+2024-11-28 20:12:22,237::end:Assign style
+2024-11-28 20:12:22,239::start:Reset view
+2024-11-28 20:12:22,249::end:Reset view
+2024-11-28 20:12:22,323::start:Extract tailings beach
+2024-11-28 20:12:22,655::end:Extract tailings beach
+2024-11-28 20:12:22,657::start:Extract surface outline
+2024-11-28 20:12:22,752::end:Extract surface outline
+2024-11-28 20:12:22,848::start:Find minimum distance between lines
+2024-11-28 20:12:23,270::end:Find minimum distance between lines
+2024-11-28 20:12:23,506::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:40,848::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:40,986::start:Assign style
+2024-11-28 20:12:41,000::end:Assign style
+2024-11-28 20:12:41,000::start:Reset view
+2024-11-28 20:12:41,016::end:Reset view
+2024-11-28 20:12:41,081::start:Extract tailings beach
+2024-11-28 20:12:41,401::end:Extract tailings beach
+2024-11-28 20:12:41,401::start:Extract surface outline
+2024-11-28 20:12:41,500::end:Extract surface outline
+2024-11-28 20:12:41,596::start:Find minimum distance between lines
+2024-11-28 20:12:42,111::end:Find minimum distance between lines
+2024-11-28 20:12:42,352::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:55,453::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:12:55,586::start:Assign style
+2024-11-28 20:12:55,601::end:Assign style
+2024-11-28 20:12:55,601::start:Reset view
+2024-11-28 20:12:55,618::end:Reset view
+2024-11-28 20:12:55,691::start:Extract tailings beach
+2024-11-28 20:12:55,996::end:Extract tailings beach
+2024-11-28 20:12:55,996::start:Extract surface outline
+2024-11-28 20:12:56,089::end:Extract surface outline
+2024-11-28 20:12:56,183::start:Find minimum distance between lines
+2024-11-28 20:12:56,565::end:Find minimum distance between lines
+2024-11-28 20:12:56,821::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:13:12,519::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:13:12,650::start:Assign style
+2024-11-28 20:13:12,660::end:Assign style
+2024-11-28 20:13:12,660::start:Reset view
+2024-11-28 20:13:12,668::end:Reset view
+2024-11-28 20:13:12,733::start:Extract tailings beach
+2024-11-28 20:13:13,032::end:Extract tailings beach
+2024-11-28 20:13:13,032::start:Extract surface outline
+2024-11-28 20:13:13,127::end:Extract surface outline
+2024-11-28 20:13:13,223::start:Find minimum distance between lines
+2024-11-28 20:13:13,700::end:Find minimum distance between lines
+2024-11-28 20:13:13,954::start:Single stream fixed pond volume, user flow path
+2024-11-28 20:13:32,519::end:Single stream fixed pond volume, user flow path
+2024-11-28 20:13:32,651::start:Assign style
+2024-11-28 20:13:32,661::end:Assign style
+2024-11-28 20:13:32,661::start:Reset view
+2024-11-28 20:13:32,668::end:Reset view
+2024-11-28 20:13:32,734::start:Extract tailings beach
+2024-11-28 20:13:33,069::end:Extract tailings beach
+2024-11-28 20:13:33,071::start:Extract surface outline
+2024-11-28 20:13:33,170::end:Extract surface outline
+2024-11-28 20:13:33,266::start:Find minimum distance between lines
+2024-11-28 20:13:33,635::end:Find minimum distance between lines
+2024-11-28 20:13:33,644::end:Run Excel model
+2024-11-28 20:13:33,644::end:_run_model.py
+2024-11-28 20:20:28,447::start:Clear graphics
+2024-11-28 20:20:29,819::end:Clear graphics
+2024-11-28 20:49:02,779::start:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 20:49:02,785::end:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 20:49:28,668::start:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 20:49:43,368::end:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 20:49:48,424::start:Show Python API docs
+2024-11-28 20:49:48,437::end:Show Python API docs
+2024-11-28 20:50:34,440::start:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 20:51:01,763::end:C:\Muk3D_Projects\Demo\Inpit\Scripts\set_base_data_for_run.py
+2024-11-28 21:14:03,161::start:set_run_script.py
+2024-11-28 21:14:10,391::end:set_run_script.py
+2024-11-28 21:14:26,796::start:set_run_script.py
+2024-11-28 21:14:34,698::end:set_run_script.py
+2024-11-28 21:14:48,421::start:set_run_script.py
+2024-11-28 21:14:59,256::end:set_run_script.py
+2024-11-28 21:15:01,683::start:run_everything.py
+2024-11-28 21:15:01,684::end:run_everything.py
+2024-11-28 21:16:16,964::start:set_run_script.py
+2024-11-28 21:16:22,573::end:set_run_script.py
+2024-11-28 21:17:34,032::start:set_run_script.py
+2024-11-28 21:17:36,451::end:set_run_script.py
+2024-11-28 21:18:01,986::start:set_run_script.py
+2024-11-28 21:18:04,598::end:set_run_script.py
+2024-11-28 21:18:39,736::start:set_run_script.py
+2024-11-28 21:18:43,286::end:set_run_script.py
+2024-11-28 21:20:09,045::start:run_everything.py
+2024-11-28 21:20:09,046::end:run_everything.py
+2024-11-28 21:20:12,062::start:set_run_script.py
+2024-11-28 21:20:14,180::end:set_run_script.py
+2024-11-28 21:21:01,121::start:set_run_script.py
+2024-11-28 21:21:03,134::end:set_run_script.py
+2024-11-28 21:21:04,769::start:run_everything.py
+2024-11-28 21:21:04,773::start:Run Excel model
+2024-11-28 21:21:04,811::end:Run Excel model
+2024-11-28 21:21:04,811::end:run_everything.py
+2024-11-28 21:21:29,799::start:run_everything.py
+2024-11-28 21:21:29,799::start:Run Excel model
+2024-11-28 21:21:29,911::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:21:58,836::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:21:58,967::start:Assign style
+2024-11-28 21:21:58,977::end:Assign style
+2024-11-28 21:21:58,977::start:Reset view
+2024-11-28 21:21:58,993::end:Reset view
+2024-11-28 21:21:59,058::start:Extract tailings beach
+2024-11-28 21:21:59,398::end:Extract tailings beach
+2024-11-28 21:21:59,398::start:Extract surface outline
+2024-11-28 21:21:59,490::end:Extract surface outline
+2024-11-28 21:21:59,584::start:Find minimum distance between lines
+2024-11-28 21:21:59,947::end:Find minimum distance between lines
+2024-11-28 21:22:00,229::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:22:16,082::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:22:16,213::start:Assign style
+2024-11-28 21:22:16,227::end:Assign style
+2024-11-28 21:22:16,227::start:Reset view
+2024-11-28 21:22:16,243::end:Reset view
+2024-11-28 21:22:16,309::start:Extract tailings beach
+2024-11-28 21:22:16,622::end:Extract tailings beach
+2024-11-28 21:22:16,624::start:Extract surface outline
+2024-11-28 21:22:16,721::end:Extract surface outline
+2024-11-28 21:22:16,816::start:Find minimum distance between lines
+2024-11-28 21:22:17,230::end:Find minimum distance between lines
+2024-11-28 21:22:17,480::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:22:38,973::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:22:39,102::start:Assign style
+2024-11-28 21:22:39,112::end:Assign style
+2024-11-28 21:22:39,112::start:Reset view
+2024-11-28 21:22:39,128::end:Reset view
+2024-11-28 21:22:39,196::start:Extract tailings beach
+2024-11-28 21:22:39,490::end:Extract tailings beach
+2024-11-28 21:22:39,490::start:Extract surface outline
+2024-11-28 21:22:39,585::end:Extract surface outline
+2024-11-28 21:22:39,681::start:Find minimum distance between lines
+2024-11-28 21:22:40,111::end:Find minimum distance between lines
+2024-11-28 21:22:40,362::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:23:01,339::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:23:01,470::start:Assign style
+2024-11-28 21:23:01,480::end:Assign style
+2024-11-28 21:23:01,480::start:Reset view
+2024-11-28 21:23:01,519::end:Reset view
+2024-11-28 21:23:01,628::start:Extract tailings beach
+2024-11-28 21:23:01,931::end:Extract tailings beach
+2024-11-28 21:23:01,931::start:Extract surface outline
+2024-11-28 21:23:02,028::end:Extract surface outline
+2024-11-28 21:23:02,122::start:Find minimum distance between lines
+2024-11-28 21:23:02,483::end:Find minimum distance between lines
+2024-11-28 21:23:02,732::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:23:23,882::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:23:24,009::start:Assign style
+2024-11-28 21:23:24,017::end:Assign style
+2024-11-28 21:23:24,017::start:Reset view
+2024-11-28 21:23:24,030::end:Reset view
+2024-11-28 21:23:24,112::start:Extract tailings beach
+2024-11-28 21:23:24,420::end:Extract tailings beach
+2024-11-28 21:23:24,420::start:Extract surface outline
+2024-11-28 21:23:24,516::end:Extract surface outline
+2024-11-28 21:23:24,615::start:Find minimum distance between lines
+2024-11-28 21:23:24,763::end:Find minimum distance between lines
+2024-11-28 21:23:24,773::end:Run Excel model
+2024-11-28 21:23:24,773::end:run_everything.py
+2024-11-28 21:24:34,226::start:Clear graphics
+2024-11-28 21:24:36,101::end:Clear graphics
+2024-11-28 21:24:39,976::start:Apply texture to object
+2024-11-28 21:24:39,976::start:Apply texture to object
+2024-11-28 21:24:41,973::end:Apply texture to object
+2024-11-28 21:24:46,302::start:Open geometry
+2024-11-28 21:24:46,801::end:Open geometry
+2024-11-28 21:24:47,503::start:Open geometry
+2024-11-28 21:24:47,684::end:Open geometry
+2024-11-28 21:24:49,628::start:Open geometry
+2024-11-28 21:24:49,816::end:Open geometry
+2024-11-28 21:24:51,132::start:Open geometry
+2024-11-28 21:24:51,566::end:Open geometry
+2024-11-28 21:24:52,992::start:Open geometry
+2024-11-28 21:24:53,151::end:Open geometry
+2024-11-28 21:25:34,309::start:Clear graphics
+2024-11-28 21:25:34,351::end:Clear graphics
+2024-11-28 21:27:02,161::start:_run_model.py
+2024-11-28 21:27:02,163::start:Run Excel model
+2024-11-28 21:27:02,275::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:19,769::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:19,903::start:Assign style
+2024-11-28 21:27:19,913::end:Assign style
+2024-11-28 21:27:19,913::start:Reset view
+2024-11-28 21:27:19,924::end:Reset view
+2024-11-28 21:27:19,989::start:Extract tailings beach
+2024-11-28 21:27:20,285::end:Extract tailings beach
+2024-11-28 21:27:20,286::start:Extract surface outline
+2024-11-28 21:27:20,382::end:Extract surface outline
+2024-11-28 21:27:20,482::start:Find minimum distance between lines
+2024-11-28 21:27:20,881::end:Find minimum distance between lines
+2024-11-28 21:27:21,142::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:30,151::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:30,282::start:Assign style
+2024-11-28 21:27:30,292::end:Assign style
+2024-11-28 21:27:30,292::start:Reset view
+2024-11-28 21:27:30,308::end:Reset view
+2024-11-28 21:27:30,371::start:Extract tailings beach
+2024-11-28 21:27:30,694::end:Extract tailings beach
+2024-11-28 21:27:30,694::start:Extract surface outline
+2024-11-28 21:27:30,792::end:Extract surface outline
+2024-11-28 21:27:30,887::start:Find minimum distance between lines
+2024-11-28 21:27:31,335::end:Find minimum distance between lines
+2024-11-28 21:27:31,654::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:44,575::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:27:44,585::end:Run Excel model
+2024-11-28 21:27:44,585::end:_run_model.py
+2024-11-28 21:28:11,500::start:Clear graphics
+2024-11-28 21:28:11,540::end:Clear graphics
+2024-11-28 21:28:14,579::start:Run Excel model
+2024-11-28 21:28:29,542::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:28:47,596::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:28:47,721::start:Assign style
+2024-11-28 21:28:47,732::end:Assign style
+2024-11-28 21:28:47,732::start:Reset view
+2024-11-28 21:28:47,744::end:Reset view
+2024-11-28 21:28:47,822::start:Extract tailings beach
+2024-11-28 21:28:48,145::end:Extract tailings beach
+2024-11-28 21:28:48,145::start:Extract surface outline
+2024-11-28 21:28:48,244::end:Extract surface outline
+2024-11-28 21:28:48,338::start:Find minimum distance between lines
+2024-11-28 21:28:48,782::end:Find minimum distance between lines
+2024-11-28 21:28:48,822::end:Run Excel model
+2024-11-28 21:29:40,138::start:Clear graphics
+2024-11-28 21:29:41,661::end:Clear graphics
+2024-11-28 21:29:43,996::start:Run Excel model
+2024-11-28 21:29:51,190::end:Run Excel model
+2024-11-28 21:32:03,842::start:set_run_script.py
+2024-11-28 21:32:03,845::end:set_run_script.py
+2024-11-28 21:32:25,315::start:set_run_script.py
+2024-11-28 21:32:30,512::end:set_run_script.py
+2024-11-28 21:32:35,779::start:run_one_timestep.py
+2024-11-28 21:32:35,782::start:Run Excel model
+2024-11-28 21:32:35,845::end:Run Excel model
+2024-11-28 21:32:35,845::end:run_one_timestep.py
+2024-11-28 21:33:07,793::start:run_one_timestep.py
+2024-11-28 21:33:07,796::start:Run Excel model
+2024-11-28 21:33:07,907::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:33:25,795::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:33:25,924::start:Assign style
+2024-11-28 21:33:25,940::end:Assign style
+2024-11-28 21:33:25,940::start:Reset view
+2024-11-28 21:33:25,957::end:Reset view
+2024-11-28 21:33:26,028::start:Extract tailings beach
+2024-11-28 21:33:26,325::end:Extract tailings beach
+2024-11-28 21:33:26,325::start:Extract surface outline
+2024-11-28 21:33:26,426::end:Extract surface outline
+2024-11-28 21:33:26,519::start:Find minimum distance between lines
+2024-11-28 21:33:26,967::end:Find minimum distance between lines
+2024-11-28 21:33:27,003::end:Run Excel model
+2024-11-28 21:33:27,003::end:run_one_timestep.py
+2024-11-28 21:33:58,292::start:Clear graphics
+2024-11-28 21:33:58,539::end:Clear graphics
+2024-11-28 21:33:59,716::start:run_one_timestep.py
+2024-11-28 21:33:59,717::start:Run Excel model
+2024-11-28 21:33:59,826::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:34:15,789::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:34:15,921::start:Assign style
+2024-11-28 21:34:15,931::end:Assign style
+2024-11-28 21:34:15,931::start:Reset view
+2024-11-28 21:34:15,941::end:Reset view
+2024-11-28 21:34:16,007::start:Extract tailings beach
+2024-11-28 21:34:16,348::end:Extract tailings beach
+2024-11-28 21:34:16,348::start:Extract surface outline
+2024-11-28 21:34:16,450::end:Extract surface outline
+2024-11-28 21:34:16,552::start:Find minimum distance between lines
+2024-11-28 21:34:17,255::end:Find minimum distance between lines
+2024-11-28 21:34:17,539::end:Run Excel model
+2024-11-28 21:34:17,540::end:run_one_timestep.py
+2024-11-28 21:34:27,730::start:run_one_timestep.py
+2024-11-28 21:34:27,732::start:Run Excel model
+2024-11-28 21:34:27,845::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:34:42,766::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:34:42,897::start:Assign style
+2024-11-28 21:34:42,910::end:Assign style
+2024-11-28 21:34:42,911::start:Reset view
+2024-11-28 21:34:42,927::end:Reset view
+2024-11-28 21:34:42,992::start:Extract tailings beach
+2024-11-28 21:34:43,299::end:Extract tailings beach
+2024-11-28 21:34:43,299::start:Extract surface outline
+2024-11-28 21:34:43,398::end:Extract surface outline
+2024-11-28 21:34:43,493::start:Find minimum distance between lines
+2024-11-28 21:34:43,976::end:Find minimum distance between lines
+2024-11-28 21:34:44,237::end:Run Excel model
+2024-11-28 21:34:44,237::end:run_one_timestep.py
+2024-11-28 21:40:02,536::start:Show Python API docs
+2024-11-28 21:40:02,559::end:Show Python API docs
+2024-11-28 21:40:54,111::start:set_current_run.py
+2024-11-28 21:40:57,117::end:set_current_run.py
+2024-11-28 21:41:10,128::start:run_one_timestep.py
+2024-11-28 21:41:10,130::start:Run Excel model
+2024-11-28 21:41:10,267::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:41:25,492::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:41:25,622::start:Assign style
+2024-11-28 21:41:25,631::end:Assign style
+2024-11-28 21:41:25,631::start:Reset view
+2024-11-28 21:41:25,644::end:Reset view
+2024-11-28 21:41:25,707::start:Extract tailings beach
+2024-11-28 21:41:26,010::end:Extract tailings beach
+2024-11-28 21:41:26,010::start:Extract surface outline
+2024-11-28 21:41:26,105::end:Extract surface outline
+2024-11-28 21:41:26,201::start:Find minimum distance between lines
+2024-11-28 21:41:26,555::end:Find minimum distance between lines
+2024-11-28 21:41:26,802::end:Run Excel model
+2024-11-28 21:41:26,802::end:run_one_timestep.py
+2024-11-28 21:42:12,128::start:run_one_timestep.py
+2024-11-28 21:42:12,130::start:Run Excel model
+2024-11-28 21:42:12,246::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:42:31,966::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:42:32,260::start:Assign style
+2024-11-28 21:42:32,270::end:Assign style
+2024-11-28 21:42:32,270::start:Reset view
+2024-11-28 21:42:32,279::end:Reset view
+2024-11-28 21:42:32,503::start:Extract tailings beach
+2024-11-28 21:42:33,053::end:Extract tailings beach
+2024-11-28 21:42:33,053::start:Extract surface outline
+2024-11-28 21:42:33,153::end:Extract surface outline
+2024-11-28 21:42:33,250::start:Find minimum distance between lines
+2024-11-28 21:42:33,384::end:Find minimum distance between lines
+2024-11-28 21:42:33,400::end:Run Excel model
+2024-11-28 21:42:33,401::end:run_one_timestep.py
+2024-11-28 21:43:07,812::start:Clear graphics
+2024-11-28 21:43:09,328::end:Clear graphics
+2024-11-28 21:44:13,256::start:Open geometry
+2024-11-28 21:44:13,355::end:Open geometry
+2024-11-28 21:44:15,562::start:Open geometry
+2024-11-28 21:44:15,733::end:Open geometry
+2024-11-28 21:44:17,276::start:Open geometry
+2024-11-28 21:44:17,371::end:Open geometry
+2024-11-28 21:44:40,211::start:Find minimum distance between lines
+2024-11-28 21:44:50,599::end:Find minimum distance between lines
+2024-11-28 21:45:03,674::start:Extract surface outline
+2024-11-28 21:45:05,588::end:Extract surface outline
+2024-11-28 21:45:07,302::start:Find minimum distance between lines
+2024-11-28 21:45:13,578::end:Find minimum distance between lines
+2024-11-28 21:51:01,345::start:show_current_run.py
+2024-11-28 21:51:01,349::end:show_current_run.py
+2024-11-28 21:51:07,510::start:show_current_run.py
+2024-11-28 21:51:07,513::end:show_current_run.py
+2024-11-28 21:51:19,045::start:run_one_timestep.py
+2024-11-28 21:51:19,046::start:Run Excel model
+2024-11-28 21:51:19,256::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:51:33,371::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:51:33,502::start:Assign style
+2024-11-28 21:51:33,513::end:Assign style
+2024-11-28 21:51:33,513::start:Reset view
+2024-11-28 21:51:33,519::end:Reset view
+2024-11-28 21:51:33,584::start:Extract tailings beach
+2024-11-28 21:51:33,884::end:Extract tailings beach
+2024-11-28 21:51:33,885::start:Extract surface outline
+2024-11-28 21:51:33,983::end:Extract surface outline
+2024-11-28 21:51:34,075::start:Find minimum distance between lines
+2024-11-28 21:51:34,529::end:Find minimum distance between lines
+2024-11-28 21:51:34,785::end:Run Excel model
+2024-11-28 21:51:34,785::end:run_one_timestep.py
+2024-11-28 21:52:52,818::start:run_one_timestep.py
+2024-11-28 21:52:52,821::start:Run Excel model
+2024-11-28 21:52:52,926::start:Single stream fixed pond volume, user flow path
+2024-11-28 21:53:12,582::end:Single stream fixed pond volume, user flow path
+2024-11-28 21:53:12,717::start:Assign style
+2024-11-28 21:53:12,730::end:Assign style
+2024-11-28 21:53:12,730::start:Reset view
+2024-11-28 21:53:12,740::end:Reset view
+2024-11-28 21:53:12,803::start:Extract tailings beach
+2024-11-28 21:53:13,118::end:Extract tailings beach
+2024-11-28 21:53:13,118::start:Extract surface outline
+2024-11-28 21:53:13,214::end:Extract surface outline
+2024-11-28 21:53:13,312::start:Find minimum distance between lines
+2024-11-28 21:53:13,441::end:Find minimum distance between lines
+2024-11-28 21:53:13,450::end:Run Excel model
+2024-11-28 21:53:13,451::end:run_one_timestep.py
+2024-11-28 22:03:15,842::start:patch_distance.py
+2024-11-28 22:03:15,845::end:patch_distance.py
+2024-11-28 22:03:27,334::start:Find minimum distance between lines
+2024-11-28 22:03:29,098::end:Find minimum distance between lines
+2024-11-28 22:03:30,996::start:Find minimum distance between lines
+2024-11-28 22:03:35,171::end:Find minimum distance between lines
+2024-11-28 22:03:50,128::start:Find minimum distance between lines
+2024-11-28 22:03:55,154::end:Find minimum distance between lines
+2024-11-28 22:04:11,240::start:patch_distance.py
+2024-11-28 22:04:11,243::end:patch_distance.py
+2024-11-28 22:04:12,755::start:Find minimum distance between lines
+2024-11-28 22:04:18,003::end:Find minimum distance between lines
+2024-11-28 22:20:00,802::start:run_one_timestep.py
+2024-11-28 22:20:00,803::start:Run Excel model
+2024-11-28 22:20:01,200::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:20:20,687::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:20:20,822::start:Assign style
+2024-11-28 22:20:20,832::end:Assign style
+2024-11-28 22:20:20,832::start:Reset view
+2024-11-28 22:20:20,846::end:Reset view
+2024-11-28 22:20:20,911::start:Extract tailings beach
+2024-11-28 22:20:21,217::end:Extract tailings beach
+2024-11-28 22:20:21,217::start:Extract surface outline
+2024-11-28 22:20:21,316::end:Extract surface outline
+2024-11-28 22:20:21,413::start:Find minimum distance between lines
+2024-11-28 22:20:21,545::end:Find minimum distance between lines
+2024-11-28 22:20:21,558::end:Run Excel model
+2024-11-28 22:20:21,558::end:run_one_timestep.py
+2024-11-28 22:21:26,785::start:patch_distance.py
+2024-11-28 22:21:26,788::end:patch_distance.py
+2024-11-28 22:21:35,575::start:run_one_timestep.py
+2024-11-28 22:21:35,578::start:Run Excel model
+2024-11-28 22:21:35,953::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:21:55,108::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:21:55,240::start:Assign style
+2024-11-28 22:21:55,252::end:Assign style
+2024-11-28 22:21:55,252::start:Reset view
+2024-11-28 22:21:55,267::end:Reset view
+2024-11-28 22:21:55,351::start:Extract tailings beach
+2024-11-28 22:21:55,670::end:Extract tailings beach
+2024-11-28 22:21:55,670::start:Extract surface outline
+2024-11-28 22:21:55,766::end:Extract surface outline
+2024-11-28 22:21:55,861::start:Find minimum distance between lines
+2024-11-28 22:21:56,019::end:Find minimum distance between lines
+2024-11-28 22:22:00,855::end:Run Excel model
+2024-11-28 22:22:00,855::end:run_one_timestep.py
+2024-11-28 22:22:59,165::start:patch_distance.py
+2024-11-28 22:22:59,168::end:patch_distance.py
+2024-11-28 22:23:09,604::start:run_one_timestep.py
+2024-11-28 22:23:09,605::start:Run Excel model
+2024-11-28 22:23:09,990::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:23:30,447::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:23:30,576::start:Assign style
+2024-11-28 22:23:30,589::end:Assign style
+2024-11-28 22:23:30,589::start:Reset view
+2024-11-28 22:23:30,605::end:Reset view
+2024-11-28 22:23:30,696::start:Extract tailings beach
+2024-11-28 22:23:31,006::end:Extract tailings beach
+2024-11-28 22:23:31,006::start:Extract surface outline
+2024-11-28 22:23:31,105::end:Extract surface outline
+2024-11-28 22:23:31,204::start:Find minimum distance between lines
+2024-11-28 22:23:31,328::end:Find minimum distance between lines
+2024-11-28 22:23:31,375::end:Run Excel model
+2024-11-28 22:23:31,375::end:run_one_timestep.py
+2024-11-28 22:23:44,150::start:run_one_timestep.py
+2024-11-28 22:23:44,151::start:Run Excel model
+2024-11-28 22:23:44,525::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:23:58,739::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:23:58,868::start:Assign style
+2024-11-28 22:23:58,880::end:Assign style
+2024-11-28 22:23:58,881::start:Reset view
+2024-11-28 22:23:58,891::end:Reset view
+2024-11-28 22:23:59,020::start:Extract tailings beach
+2024-11-28 22:23:59,345::end:Extract tailings beach
+2024-11-28 22:23:59,345::start:Extract surface outline
+2024-11-28 22:23:59,441::end:Extract surface outline
+2024-11-28 22:23:59,539::start:Find minimum distance between lines
+2024-11-28 22:23:59,658::end:Find minimum distance between lines
+2024-11-28 22:23:59,706::end:Run Excel model
+2024-11-28 22:23:59,706::end:run_one_timestep.py
+2024-11-28 22:24:10,157::start:run_one_timestep.py
+2024-11-28 22:24:10,157::start:Run Excel model
+2024-11-28 22:24:10,559::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:24:28,503::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:24:28,638::start:Assign style
+2024-11-28 22:24:28,648::end:Assign style
+2024-11-28 22:24:28,648::start:Reset view
+2024-11-28 22:24:28,657::end:Reset view
+2024-11-28 22:24:28,721::start:Extract tailings beach
+2024-11-28 22:24:29,013::end:Extract tailings beach
+2024-11-28 22:24:29,013::start:Extract surface outline
+2024-11-28 22:24:29,111::end:Extract surface outline
+2024-11-28 22:24:29,207::start:Find minimum distance between lines
+2024-11-28 22:24:29,325::end:Find minimum distance between lines
+2024-11-28 22:24:29,358::end:Run Excel model
+2024-11-28 22:24:29,358::end:run_one_timestep.py
+2024-11-28 22:26:13,000::start:Clear graphics
+2024-11-28 22:26:14,311::end:Clear graphics
+2024-11-28 22:26:33,677::start:set_current_run.py
+2024-11-28 22:26:37,167::end:set_current_run.py
+2024-11-28 22:26:42,015::start:run_one_timestep.py
+2024-11-28 22:26:42,016::start:Run Excel model
+2024-11-28 22:26:42,131::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:26:58,973::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:26:59,086::start:Assign style
+2024-11-28 22:26:59,098::end:Assign style
+2024-11-28 22:26:59,098::start:Reset view
+2024-11-28 22:26:59,117::end:Reset view
+2024-11-28 22:26:59,177::start:Extract tailings beach
+2024-11-28 22:26:59,466::end:Extract tailings beach
+2024-11-28 22:26:59,466::start:Extract surface outline
+2024-11-28 22:26:59,565::end:Extract surface outline
+2024-11-28 22:26:59,660::start:Find minimum distance between lines
+2024-11-28 22:26:59,780::end:Find minimum distance between lines
+2024-11-28 22:26:59,818::end:Run Excel model
+2024-11-28 22:26:59,818::end:run_one_timestep.py
+2024-11-28 22:28:11,625::start:Clear graphics
+2024-11-28 22:28:13,164::end:Clear graphics
+2024-11-28 22:36:18,516::start:show_current_run.py
+2024-11-28 22:36:18,520::end:show_current_run.py
+2024-11-28 22:36:22,674::start:set_current_run.py
+2024-11-28 22:36:25,446::end:set_current_run.py
+2024-11-28 22:36:28,497::start:run_one_timestep.py
+2024-11-28 22:36:28,499::start:Run Excel model
+2024-11-28 22:36:28,607::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:36:46,250::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:36:46,375::start:Assign style
+2024-11-28 22:36:46,390::end:Assign style
+2024-11-28 22:36:46,391::start:Reset view
+2024-11-28 22:36:46,404::end:Reset view
+2024-11-28 22:36:46,470::start:Extract tailings beach
+2024-11-28 22:36:46,763::end:Extract tailings beach
+2024-11-28 22:36:46,763::start:Extract surface outline
+2024-11-28 22:36:46,859::end:Extract surface outline
+2024-11-28 22:36:46,954::start:Find minimum distance between lines
+2024-11-28 22:36:47,072::end:Find minimum distance between lines
+2024-11-28 22:36:47,108::end:Run Excel model
+2024-11-28 22:36:47,108::end:run_one_timestep.py
+2024-11-28 22:36:58,094::start:Clear graphics
+2024-11-28 22:37:01,053::end:Clear graphics
+2024-11-28 22:37:02,240::start:Load scene
+2024-11-28 22:37:02,321::end:Load scene
+2024-11-28 22:37:30,605::start:run_one_timestep.py
+2024-11-28 22:37:30,605::start:Run Excel model
+2024-11-28 22:37:30,759::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:37:47,967::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:37:48,079::start:Assign style
+2024-11-28 22:37:48,092::end:Assign style
+2024-11-28 22:37:48,092::start:Reset view
+2024-11-28 22:37:48,108::end:Reset view
+2024-11-28 22:37:48,118::end:Run Excel model
+2024-11-28 22:37:48,118::end:run_one_timestep.py
+2024-11-28 22:38:08,219::start:Record macro
+2024-11-28 22:38:09,265::end:Record macro
+2024-11-28 22:38:14,928::start:Save current layer
+2024-11-28 22:38:16,779::end:Save current layer
+2024-11-28 22:38:21,069::start:End macro recording
+2024-11-28 22:38:21,102::end:End macro recording
+2024-11-28 22:38:51,684::start:Clear graphics
+2024-11-28 22:38:51,842::end:Clear graphics
+2024-11-28 22:38:55,808::start:run_one_timestep.py
+2024-11-28 22:38:55,809::start:Run Excel model
+2024-11-28 22:38:55,934::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:39:12,717::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:39:12,821::start:Assign style
+2024-11-28 22:39:12,832::end:Assign style
+2024-11-28 22:39:12,832::start:Save current layer
+2024-11-28 22:39:12,835::end:Save current layer
+2024-11-28 22:39:12,835::start:Reset view
+2024-11-28 22:39:12,845::end:Reset view
+2024-11-28 22:39:12,910::start:Extract tailings beach
+2024-11-28 22:39:13,203::end:Extract tailings beach
+2024-11-28 22:39:13,203::start:Extract surface outline
+2024-11-28 22:39:13,299::end:Extract surface outline
+2024-11-28 22:39:13,398::start:Find minimum distance between lines
+2024-11-28 22:39:13,517::end:Find minimum distance between lines
+2024-11-28 22:39:13,552::end:Run Excel model
+2024-11-28 22:39:13,552::end:run_one_timestep.py
+2024-11-28 22:42:16,739::start:Clear graphics
+2024-11-28 22:42:22,668::end:Clear graphics
+2024-11-28 22:42:27,303::start:Open geometry
+2024-11-28 22:42:27,401::end:Open geometry
+2024-11-28 22:42:39,115::start:Load scene
+2024-11-28 22:42:40,066::end:Load scene
+2024-11-28 22:44:51,302::start:Clear graphics
+2024-11-28 22:44:51,341::end:Clear graphics
+2024-11-28 22:44:53,065::start:Record macro
+2024-11-28 22:44:54,086::end:Record macro
+2024-11-28 22:45:07,673::start:Load scene
+2024-11-28 22:45:08,394::end:Load scene
+2024-11-28 22:45:13,045::start:End macro recording
+2024-11-28 22:45:13,131::end:End macro recording
+2024-11-28 22:46:26,005::start:Clear graphics
+2024-11-28 22:46:26,062::end:Clear graphics
+2024-11-28 22:46:30,335::start:run_one_timestep.py
+2024-11-28 22:46:30,335::start:Run Excel model
+2024-11-28 22:46:30,450::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:46:47,032::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:46:47,246::start:Assign style
+2024-11-28 22:46:47,256::end:Assign style
+2024-11-28 22:46:47,257::start:Save current layer
+2024-11-28 22:46:47,259::end:Save current layer
+2024-11-28 22:46:47,259::start:Reset view
+2024-11-28 22:46:47,276::end:Reset view
+2024-11-28 22:46:47,329::start:Extract tailings beach
+2024-11-28 22:46:47,621::end:Extract tailings beach
+2024-11-28 22:46:47,621::start:Extract surface outline
+2024-11-28 22:46:47,723::end:Extract surface outline
+2024-11-28 22:46:47,815::start:Find minimum distance between lines
+2024-11-28 22:46:47,931::end:Find minimum distance between lines
+2024-11-28 22:46:48,147::start:Load scene
+2024-11-28 22:46:49,015::end:Load scene
+2024-11-28 22:46:49,049::end:Run Excel model
+2024-11-28 22:46:49,049::end:run_one_timestep.py
+2024-11-28 22:47:29,621::start:run_one_timestep.py
+2024-11-28 22:47:29,622::start:Run Excel model
+2024-11-28 22:47:29,918::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:47:46,440::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:47:46,562::start:Assign style
+2024-11-28 22:47:46,579::end:Assign style
+2024-11-28 22:47:46,581::start:Save current layer
+2024-11-28 22:47:46,582::end:Save current layer
+2024-11-28 22:47:46,582::start:Reset view
+2024-11-28 22:47:46,622::end:Reset view
+2024-11-28 22:47:46,694::start:Extract tailings beach
+2024-11-28 22:47:46,983::end:Extract tailings beach
+2024-11-28 22:47:46,983::start:Extract surface outline
+2024-11-28 22:47:47,078::end:Extract surface outline
+2024-11-28 22:47:47,173::start:Find minimum distance between lines
+2024-11-28 22:47:47,289::end:Find minimum distance between lines
+2024-11-28 22:47:47,532::start:Load scene
+2024-11-28 22:47:48,384::end:Load scene
+2024-11-28 22:47:48,516::end:Run Excel model
+2024-11-28 22:47:48,516::end:run_one_timestep.py
+2024-11-28 22:48:01,911::start:Open geometry
+2024-11-28 22:48:02,066::end:Open geometry
+2024-11-28 22:48:42,828::start:set_current_run.py
+2024-11-28 22:48:44,734::end:set_current_run.py
+2024-11-28 22:48:47,716::start:run_one_timestep.py
+2024-11-28 22:48:47,717::start:Run Excel model
+2024-11-28 22:48:48,088::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:49:03,506::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:49:03,619::start:Assign style
+2024-11-28 22:49:03,628::end:Assign style
+2024-11-28 22:49:03,631::start:Save current layer
+2024-11-28 22:49:03,634::end:Save current layer
+2024-11-28 22:49:03,634::start:Reset view
+2024-11-28 22:49:03,648::end:Reset view
+2024-11-28 22:49:03,700::start:Extract tailings beach
+2024-11-28 22:49:04,009::end:Extract tailings beach
+2024-11-28 22:49:04,009::start:Extract surface outline
+2024-11-28 22:49:04,105::end:Extract surface outline
+2024-11-28 22:49:04,207::start:Find minimum distance between lines
+2024-11-28 22:49:04,326::end:Find minimum distance between lines
+2024-11-28 22:49:04,565::start:Load scene
+2024-11-28 22:49:05,454::end:Load scene
+2024-11-28 22:49:05,599::end:Run Excel model
+2024-11-28 22:49:05,599::end:run_one_timestep.py
+2024-11-28 22:49:20,884::start:run_one_timestep.py
+2024-11-28 22:49:20,885::start:Run Excel model
+2024-11-28 22:49:21,190::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:49:36,470::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:49:36,592::start:Assign style
+2024-11-28 22:49:36,605::end:Assign style
+2024-11-28 22:49:36,608::start:Save current layer
+2024-11-28 22:49:36,609::end:Save current layer
+2024-11-28 22:49:36,609::start:Reset view
+2024-11-28 22:49:36,627::end:Reset view
+2024-11-28 22:49:36,687::start:Extract tailings beach
+2024-11-28 22:49:36,980::end:Extract tailings beach
+2024-11-28 22:49:36,980::start:Extract surface outline
+2024-11-28 22:49:37,078::end:Extract surface outline
+2024-11-28 22:49:37,176::start:Find minimum distance between lines
+2024-11-28 22:49:37,341::end:Find minimum distance between lines
+2024-11-28 22:49:37,539::start:Load scene
+2024-11-28 22:49:38,691::end:Load scene
+2024-11-28 22:49:39,013::end:Run Excel model
+2024-11-28 22:49:39,013::end:run_one_timestep.py
+2024-11-28 22:49:56,154::start:set_current_run.py
+2024-11-28 22:49:58,700::end:set_current_run.py
+2024-11-28 22:50:04,131::start:run_one_timestep.py
+2024-11-28 22:50:04,134::start:Run Excel model
+2024-11-28 22:50:04,426::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:50:25,964::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:50:26,134::start:Assign style
+2024-11-28 22:50:26,144::end:Assign style
+2024-11-28 22:50:26,145::start:Save current layer
+2024-11-28 22:50:26,148::end:Save current layer
+2024-11-28 22:50:26,148::start:Reset view
+2024-11-28 22:50:26,164::end:Reset view
+2024-11-28 22:50:26,220::start:Extract tailings beach
+2024-11-28 22:50:26,526::end:Extract tailings beach
+2024-11-28 22:50:26,526::start:Extract surface outline
+2024-11-28 22:50:26,630::end:Extract surface outline
+2024-11-28 22:50:26,726::start:Find minimum distance between lines
+2024-11-28 22:50:26,861::end:Find minimum distance between lines
+2024-11-28 22:50:27,075::start:Load scene
+2024-11-28 22:50:28,111::end:Load scene
+2024-11-28 22:50:28,246::end:Run Excel model
+2024-11-28 22:50:28,246::end:run_one_timestep.py
+2024-11-28 22:50:39,273::start:run_one_timestep.py
+2024-11-28 22:50:39,273::start:Run Excel model
+2024-11-28 22:50:39,670::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:50:56,000::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:50:56,122::start:Assign style
+2024-11-28 22:50:56,135::end:Assign style
+2024-11-28 22:50:56,137::start:Save current layer
+2024-11-28 22:50:56,138::end:Save current layer
+2024-11-28 22:50:56,138::start:Reset view
+2024-11-28 22:50:56,161::end:Reset view
+2024-11-28 22:50:56,224::start:Extract tailings beach
+2024-11-28 22:50:56,500::end:Extract tailings beach
+2024-11-28 22:50:56,500::start:Extract surface outline
+2024-11-28 22:50:56,598::end:Extract surface outline
+2024-11-28 22:50:56,726::start:Find minimum distance between lines
+2024-11-28 22:50:56,846::end:Find minimum distance between lines
+2024-11-28 22:50:57,073::start:Load scene
+2024-11-28 22:50:57,926::end:Load scene
+2024-11-28 22:50:58,059::end:Run Excel model
+2024-11-28 22:50:58,059::end:run_one_timestep.py
+2024-11-28 22:51:07,246::start:set_current_run.py
+2024-11-28 22:51:08,255::end:set_current_run.py
+2024-11-28 22:51:16,131::start:set_current_run.py
+2024-11-28 22:51:18,602::end:set_current_run.py
+2024-11-28 22:51:21,578::start:run_one_timestep.py
+2024-11-28 22:51:21,578::start:Run Excel model
+2024-11-28 22:51:21,895::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:51:39,183::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:51:39,316::start:Assign style
+2024-11-28 22:51:39,328::end:Assign style
+2024-11-28 22:51:39,329::start:Save current layer
+2024-11-28 22:51:39,332::end:Save current layer
+2024-11-28 22:51:39,332::start:Reset view
+2024-11-28 22:51:39,358::end:Reset view
+2024-11-28 22:51:39,431::start:Extract tailings beach
+2024-11-28 22:51:39,717::end:Extract tailings beach
+2024-11-28 22:51:39,717::start:Extract surface outline
+2024-11-28 22:51:39,812::end:Extract surface outline
+2024-11-28 22:51:39,905::start:Find minimum distance between lines
+2024-11-28 22:51:40,015::end:Find minimum distance between lines
+2024-11-28 22:51:40,262::start:Load scene
+2024-11-28 22:51:41,111::end:Load scene
+2024-11-28 22:51:41,243::end:Run Excel model
+2024-11-28 22:51:41,243::end:run_one_timestep.py
+2024-11-28 22:51:52,994::start:run_one_timestep.py
+2024-11-28 22:51:52,996::start:Run Excel model
+2024-11-28 22:51:53,357::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:52:01,157::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:52:01,279::start:Assign style
+2024-11-28 22:52:01,289::end:Assign style
+2024-11-28 22:52:01,290::start:Save current layer
+2024-11-28 22:52:01,292::end:Save current layer
+2024-11-28 22:52:01,292::start:Reset view
+2024-11-28 22:52:01,315::end:Reset view
+2024-11-28 22:52:01,372::start:Extract tailings beach
+2024-11-28 22:52:01,661::end:Extract tailings beach
+2024-11-28 22:52:01,661::start:Extract surface outline
+2024-11-28 22:52:01,760::end:Extract surface outline
+2024-11-28 22:52:01,862::start:Find minimum distance between lines
+2024-11-28 22:52:01,983::end:Find minimum distance between lines
+2024-11-28 22:52:02,220::start:Load scene
+2024-11-28 22:52:03,095::end:Load scene
+2024-11-28 22:52:03,229::end:Run Excel model
+2024-11-28 22:52:03,229::end:run_one_timestep.py
+2024-11-28 22:52:19,763::start:set_current_run.py
+2024-11-28 22:52:21,424::end:set_current_run.py
+2024-11-28 22:52:26,611::start:run_one_timestep.py
+2024-11-28 22:52:26,612::start:Run Excel model
+2024-11-28 22:52:26,948::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:52:41,117::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:52:41,237::start:Assign style
+2024-11-28 22:52:41,247::end:Assign style
+2024-11-28 22:52:41,249::start:Save current layer
+2024-11-28 22:52:41,250::end:Save current layer
+2024-11-28 22:52:41,250::start:Reset view
+2024-11-28 22:52:41,272::end:Reset view
+2024-11-28 22:52:41,332::start:Extract tailings beach
+2024-11-28 22:52:41,609::end:Extract tailings beach
+2024-11-28 22:52:41,609::start:Extract surface outline
+2024-11-28 22:52:41,700::end:Extract surface outline
+2024-11-28 22:52:41,792::start:Find minimum distance between lines
+2024-11-28 22:52:41,901::end:Find minimum distance between lines
+2024-11-28 22:52:42,128::start:Load scene
+2024-11-28 22:52:42,987::end:Load scene
+2024-11-28 22:52:43,118::end:Run Excel model
+2024-11-28 22:52:43,119::end:run_one_timestep.py
+2024-11-28 22:53:33,155::start:set_current_run.py
+2024-11-28 22:53:34,167::end:set_current_run.py
+2024-11-28 22:53:36,974::start:run_one_timestep.py
+2024-11-28 22:53:36,976::start:Run Excel model
+2024-11-28 22:53:37,318::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:53:45,033::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:53:45,157::start:Assign style
+2024-11-28 22:53:45,167::end:Assign style
+2024-11-28 22:53:45,170::start:Save current layer
+2024-11-28 22:53:45,171::end:Save current layer
+2024-11-28 22:53:45,171::start:Reset view
+2024-11-28 22:53:45,194::end:Reset view
+2024-11-28 22:53:45,246::start:Extract tailings beach
+2024-11-28 22:53:45,553::end:Extract tailings beach
+2024-11-28 22:53:45,553::start:Extract surface outline
+2024-11-28 22:53:45,647::end:Extract surface outline
+2024-11-28 22:53:45,743::start:Find minimum distance between lines
+2024-11-28 22:53:45,851::end:Find minimum distance between lines
+2024-11-28 22:53:46,099::start:Load scene
+2024-11-28 22:53:46,956::end:Load scene
+2024-11-28 22:53:47,088::end:Run Excel model
+2024-11-28 22:53:47,088::end:run_one_timestep.py
+2024-11-28 22:54:45,562::start:set_current_run.py
+2024-11-28 22:54:47,644::end:set_current_run.py
+2024-11-28 22:54:50,658::start:run_one_timestep.py
+2024-11-28 22:54:50,661::start:Run Excel model
+2024-11-28 22:54:51,154::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:08,279::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:08,407::start:Assign style
+2024-11-28 22:55:08,418::end:Assign style
+2024-11-28 22:55:08,420::start:Save current layer
+2024-11-28 22:55:08,423::end:Save current layer
+2024-11-28 22:55:08,423::start:Reset view
+2024-11-28 22:55:08,446::end:Reset view
+2024-11-28 22:55:08,502::start:Extract tailings beach
+2024-11-28 22:55:08,819::end:Extract tailings beach
+2024-11-28 22:55:08,819::start:Extract surface outline
+2024-11-28 22:55:08,917::end:Extract surface outline
+2024-11-28 22:55:09,015::start:Find minimum distance between lines
+2024-11-28 22:55:09,134::end:Find minimum distance between lines
+2024-11-28 22:55:09,369::start:Load scene
+2024-11-28 22:55:10,253::end:Load scene
+2024-11-28 22:55:10,385::end:Run Excel model
+2024-11-28 22:55:10,385::end:run_one_timestep.py
+2024-11-28 22:55:16,871::start:run_one_timestep.py
+2024-11-28 22:55:16,871::start:Run Excel model
+2024-11-28 22:55:17,171::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:30,214::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:30,339::start:Assign style
+2024-11-28 22:55:30,351::end:Assign style
+2024-11-28 22:55:30,351::start:Save current layer
+2024-11-28 22:55:30,354::end:Save current layer
+2024-11-28 22:55:30,354::start:Reset view
+2024-11-28 22:55:30,377::end:Reset view
+2024-11-28 22:55:30,428::start:Extract tailings beach
+2024-11-28 22:55:30,713::end:Extract tailings beach
+2024-11-28 22:55:30,713::start:Extract surface outline
+2024-11-28 22:55:30,812::end:Extract surface outline
+2024-11-28 22:55:30,907::start:Find minimum distance between lines
+2024-11-28 22:55:31,029::end:Find minimum distance between lines
+2024-11-28 22:55:31,296::start:Load scene
+2024-11-28 22:55:32,210::end:Load scene
+2024-11-28 22:55:32,344::end:Run Excel model
+2024-11-28 22:55:32,344::end:run_one_timestep.py
+2024-11-28 22:55:43,528::start:set_current_run.py
+2024-11-28 22:55:46,346::end:set_current_run.py
+2024-11-28 22:55:50,770::start:run_one_timestep.py
+2024-11-28 22:55:50,772::start:Run Excel model
+2024-11-28 22:55:51,190::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:58,319::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:55:58,443::start:Assign style
+2024-11-28 22:55:58,454::end:Assign style
+2024-11-28 22:55:58,456::start:Save current layer
+2024-11-28 22:55:58,457::end:Save current layer
+2024-11-28 22:55:58,457::start:Reset view
+2024-11-28 22:55:58,480::end:Reset view
+2024-11-28 22:55:58,536::start:Extract tailings beach
+2024-11-28 22:55:58,851::end:Extract tailings beach
+2024-11-28 22:55:58,851::start:Extract surface outline
+2024-11-28 22:55:58,946::end:Extract surface outline
+2024-11-28 22:55:59,042::start:Find minimum distance between lines
+2024-11-28 22:55:59,157::end:Find minimum distance between lines
+2024-11-28 22:55:59,384::start:Load scene
+2024-11-28 22:56:00,237::end:Load scene
+2024-11-28 22:56:00,371::end:Run Excel model
+2024-11-28 22:56:00,371::end:run_one_timestep.py
+2024-11-28 22:56:06,834::start:run_one_timestep.py
+2024-11-28 22:56:06,835::start:Run Excel model
+2024-11-28 22:56:07,125::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:56:23,845::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:56:23,976::start:Assign style
+2024-11-28 22:56:23,989::end:Assign style
+2024-11-28 22:56:23,990::start:Save current layer
+2024-11-28 22:56:23,992::end:Save current layer
+2024-11-28 22:56:23,992::start:Reset view
+2024-11-28 22:56:24,016::end:Reset view
+2024-11-28 22:56:24,069::start:Extract tailings beach
+2024-11-28 22:56:24,380::end:Extract tailings beach
+2024-11-28 22:56:24,381::start:Extract surface outline
+2024-11-28 22:56:24,482::end:Extract surface outline
+2024-11-28 22:56:24,598::start:Find minimum distance between lines
+2024-11-28 22:56:24,780::end:Find minimum distance between lines
+2024-11-28 22:56:25,042::start:Load scene
+2024-11-28 22:56:26,963::end:Load scene
+2024-11-28 22:56:27,226::end:Run Excel model
+2024-11-28 22:56:27,226::end:run_one_timestep.py
+2024-11-28 22:56:46,525::start:set_current_run.py
+2024-11-28 22:56:48,256::end:set_current_run.py
+2024-11-28 22:56:50,677::start:run_one_timestep.py
+2024-11-28 22:56:50,680::start:Run Excel model
+2024-11-28 22:56:51,361::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:57:09,157::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:57:09,279::start:Assign style
+2024-11-28 22:57:09,292::end:Assign style
+2024-11-28 22:57:09,292::start:Save current layer
+2024-11-28 22:57:09,295::end:Save current layer
+2024-11-28 22:57:09,295::start:Reset view
+2024-11-28 22:57:09,316::end:Reset view
+2024-11-28 22:57:09,374::start:Extract tailings beach
+2024-11-28 22:57:09,637::end:Extract tailings beach
+2024-11-28 22:57:09,637::start:Extract surface outline
+2024-11-28 22:57:09,726::end:Extract surface outline
+2024-11-28 22:57:09,819::start:Find minimum distance between lines
+2024-11-28 22:57:09,920::end:Find minimum distance between lines
+2024-11-28 22:57:10,167::start:Load scene
+2024-11-28 22:57:11,029::end:Load scene
+2024-11-28 22:57:11,165::end:Run Excel model
+2024-11-28 22:57:11,165::end:run_one_timestep.py
+2024-11-28 22:57:26,099::start:run_one_timestep.py
+2024-11-28 22:57:26,101::start:Run Excel model
+2024-11-28 22:57:26,411::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:57:39,460::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:57:39,588::start:Assign style
+2024-11-28 22:57:39,598::end:Assign style
+2024-11-28 22:57:39,598::start:Save current layer
+2024-11-28 22:57:39,601::end:Save current layer
+2024-11-28 22:57:39,601::start:Reset view
+2024-11-28 22:57:39,625::end:Reset view
+2024-11-28 22:57:39,683::start:Extract tailings beach
+2024-11-28 22:57:39,959::end:Extract tailings beach
+2024-11-28 22:57:39,959::start:Extract surface outline
+2024-11-28 22:57:40,049::end:Extract surface outline
+2024-11-28 22:57:40,138::start:Find minimum distance between lines
+2024-11-28 22:57:40,243::end:Find minimum distance between lines
+2024-11-28 22:57:40,464::start:Load scene
+2024-11-28 22:57:41,326::end:Load scene
+2024-11-28 22:57:41,459::end:Run Excel model
+2024-11-28 22:57:41,459::end:run_one_timestep.py
+2024-11-28 22:57:48,552::start:run_one_timestep.py
+2024-11-28 22:57:48,553::start:Run Excel model
+2024-11-28 22:57:48,880::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:58:04,068::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:58:04,193::start:Assign style
+2024-11-28 22:58:04,203::end:Assign style
+2024-11-28 22:58:04,203::start:Save current layer
+2024-11-28 22:58:04,206::end:Save current layer
+2024-11-28 22:58:04,206::start:Reset view
+2024-11-28 22:58:04,230::end:Reset view
+2024-11-28 22:58:04,289::start:Extract tailings beach
+2024-11-28 22:58:04,693::end:Extract tailings beach
+2024-11-28 22:58:04,693::start:Extract surface outline
+2024-11-28 22:58:04,785::end:Extract surface outline
+2024-11-28 22:58:04,878::start:Find minimum distance between lines
+2024-11-28 22:58:04,982::end:Find minimum distance between lines
+2024-11-28 22:58:05,193::start:Load scene
+2024-11-28 22:58:06,036::end:Load scene
+2024-11-28 22:58:06,167::end:Run Excel model
+2024-11-28 22:58:06,167::end:run_one_timestep.py
+2024-11-28 22:58:45,743::start:set_current_run.py
+2024-11-28 22:58:48,653::end:set_current_run.py
+2024-11-28 22:58:51,934::start:run_one_timestep.py
+2024-11-28 22:58:51,936::start:Run Excel model
+2024-11-28 22:58:52,232::start:Single stream fixed pond volume, user flow path
+2024-11-28 22:59:11,842::end:Single stream fixed pond volume, user flow path
+2024-11-28 22:59:12,260::start:Assign style
+2024-11-28 22:59:12,272::end:Assign style
+2024-11-28 22:59:12,273::start:Save current layer
+2024-11-28 22:59:12,276::end:Save current layer
+2024-11-28 22:59:12,276::start:Reset view
+2024-11-28 22:59:12,302::end:Reset view
+2024-11-28 22:59:12,365::start:Extract tailings beach
+2024-11-28 22:59:12,894::end:Extract tailings beach
+2024-11-28 22:59:12,894::start:Extract surface outline
+2024-11-28 22:59:13,003::end:Extract surface outline
+2024-11-28 22:59:13,174::start:Find minimum distance between lines
+2024-11-28 22:59:13,319::end:Find minimum distance between lines
+2024-11-28 22:59:13,529::start:Load scene
+2024-11-28 22:59:14,581::end:Load scene
+2024-11-28 22:59:14,760::end:Run Excel model
+2024-11-28 22:59:14,762::end:run_one_timestep.py
+2024-11-28 23:00:10,706::start:Increment_run.py
+2024-11-28 23:00:10,709::end:Increment_run.py
+2024-11-28 23:00:13,546::start:run_one_timestep.py
+2024-11-28 23:00:13,546::start:Run Excel model
+2024-11-28 23:00:13,901::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:00:31,913::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:00:32,036::start:Assign style
+2024-11-28 23:00:32,046::end:Assign style
+2024-11-28 23:00:32,048::start:Save current layer
+2024-11-28 23:00:32,049::end:Save current layer
+2024-11-28 23:00:32,049::start:Reset view
+2024-11-28 23:00:32,072::end:Reset view
+2024-11-28 23:00:32,122::start:Extract tailings beach
+2024-11-28 23:00:32,431::end:Extract tailings beach
+2024-11-28 23:00:32,431::start:Extract surface outline
+2024-11-28 23:00:32,526::end:Extract surface outline
+2024-11-28 23:00:32,621::start:Find minimum distance between lines
+2024-11-28 23:00:32,736::end:Find minimum distance between lines
+2024-11-28 23:00:32,971::start:Load scene
+2024-11-28 23:00:33,838::end:Load scene
+2024-11-28 23:00:33,973::end:Run Excel model
+2024-11-28 23:00:33,973::end:run_one_timestep.py
+2024-11-28 23:00:54,102::start:Increment_run.py
+2024-11-28 23:00:54,104::end:Increment_run.py
+2024-11-28 23:01:02,028::start:run_one_timestep.py
+2024-11-28 23:01:02,029::start:Run Excel model
+2024-11-28 23:01:02,388::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:01:17,384::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:01:17,516::start:Assign style
+2024-11-28 23:01:17,526::end:Assign style
+2024-11-28 23:01:17,526::start:Save current layer
+2024-11-28 23:01:17,529::end:Save current layer
+2024-11-28 23:01:17,529::start:Reset view
+2024-11-28 23:01:17,553::end:Reset view
+2024-11-28 23:01:17,605::start:Extract tailings beach
+2024-11-28 23:01:17,944::end:Extract tailings beach
+2024-11-28 23:01:17,944::start:Extract surface outline
+2024-11-28 23:01:18,046::end:Extract surface outline
+2024-11-28 23:01:18,144::start:Find minimum distance between lines
+2024-11-28 23:01:18,259::end:Find minimum distance between lines
+2024-11-28 23:01:18,523::start:Load scene
+2024-11-28 23:01:19,823::end:Load scene
+2024-11-28 23:01:19,954::end:Run Excel model
+2024-11-28 23:01:19,954::end:run_one_timestep.py
+2024-11-28 23:01:27,635::start:run_one_timestep.py
+2024-11-28 23:01:27,637::start:Run Excel model
+2024-11-28 23:01:27,971::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:01:43,206::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:01:43,345::start:Assign style
+2024-11-28 23:01:43,358::end:Assign style
+2024-11-28 23:01:43,359::start:Save current layer
+2024-11-28 23:01:43,362::end:Save current layer
+2024-11-28 23:01:43,362::start:Reset view
+2024-11-28 23:01:43,388::end:Reset view
+2024-11-28 23:01:43,460::start:Extract tailings beach
+2024-11-28 23:01:43,785::end:Extract tailings beach
+2024-11-28 23:01:43,785::start:Extract surface outline
+2024-11-28 23:01:43,895::end:Extract surface outline
+2024-11-28 23:01:44,003::start:Find minimum distance between lines
+2024-11-28 23:01:44,138::end:Find minimum distance between lines
+2024-11-28 23:01:44,355::start:Load scene
+2024-11-28 23:01:45,734::end:Load scene
+2024-11-28 23:01:45,936::end:Run Excel model
+2024-11-28 23:01:45,937::end:run_one_timestep.py
+2024-11-28 23:01:55,839::start:Increment_run.py
+2024-11-28 23:01:55,841::end:Increment_run.py
+2024-11-28 23:01:58,482::start:run_one_timestep.py
+2024-11-28 23:01:58,483::start:Run Excel model
+2024-11-28 23:01:58,775::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:02:06,332::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:02:06,463::start:Assign style
+2024-11-28 23:02:06,473::end:Assign style
+2024-11-28 23:02:06,474::start:Save current layer
+2024-11-28 23:02:06,476::end:Save current layer
+2024-11-28 23:02:06,477::start:Reset view
+2024-11-28 23:02:06,506::end:Reset view
+2024-11-28 23:02:06,555::start:Extract tailings beach
+2024-11-28 23:02:06,926::end:Extract tailings beach
+2024-11-28 23:02:06,927::start:Extract surface outline
+2024-11-28 23:02:07,019::end:Extract surface outline
+2024-11-28 23:02:07,111::start:Find minimum distance between lines
+2024-11-28 23:02:07,224::end:Find minimum distance between lines
+2024-11-28 23:02:07,436::start:Load scene
+2024-11-28 23:02:08,315::end:Load scene
+2024-11-28 23:02:08,447::end:Run Excel model
+2024-11-28 23:02:08,448::end:run_one_timestep.py
+2024-11-28 23:02:21,030::start:Increment_run.py
+2024-11-28 23:02:21,032::end:Increment_run.py
+2024-11-28 23:02:22,734::start:run_one_timestep.py
+2024-11-28 23:02:22,736::start:Run Excel model
+2024-11-28 23:02:23,059::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:02:40,444::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:02:40,576::start:Assign style
+2024-11-28 23:02:40,588::end:Assign style
+2024-11-28 23:02:40,589::start:Save current layer
+2024-11-28 23:02:40,592::end:Save current layer
+2024-11-28 23:02:40,592::start:Reset view
+2024-11-28 23:02:40,622::end:Reset view
+2024-11-28 23:02:40,686::start:Extract tailings beach
+2024-11-28 23:02:41,052::end:Extract tailings beach
+2024-11-28 23:02:41,052::start:Extract surface outline
+2024-11-28 23:02:41,144::end:Extract surface outline
+2024-11-28 23:02:41,236::start:Find minimum distance between lines
+2024-11-28 23:02:41,349::end:Find minimum distance between lines
+2024-11-28 23:02:41,571::start:Load scene
+2024-11-28 23:02:42,523::end:Load scene
+2024-11-28 23:02:42,655::end:Run Excel model
+2024-11-28 23:02:42,655::end:run_one_timestep.py
+2024-11-28 23:02:52,246::start:run_one_timestep.py
+2024-11-28 23:02:52,246::start:Run Excel model
+2024-11-28 23:02:52,674::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:03:11,861::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:03:12,084::start:Assign style
+2024-11-28 23:03:12,095::end:Assign style
+2024-11-28 23:03:12,095::start:Save current layer
+2024-11-28 23:03:12,096::end:Save current layer
+2024-11-28 23:03:12,096::start:Reset view
+2024-11-28 23:03:12,127::end:Reset view
+2024-11-28 23:03:12,180::start:Extract tailings beach
+2024-11-28 23:03:12,700::end:Extract tailings beach
+2024-11-28 23:03:12,701::start:Extract surface outline
+2024-11-28 23:03:12,838::end:Extract surface outline
+2024-11-28 23:03:12,944::start:Find minimum distance between lines
+2024-11-28 23:03:13,089::end:Find minimum distance between lines
+2024-11-28 23:03:13,309::start:Load scene
+2024-11-28 23:03:14,207::end:Load scene
+2024-11-28 23:03:14,342::end:Run Excel model
+2024-11-28 23:03:14,342::end:run_one_timestep.py
+2024-11-28 23:03:19,825::start:run_one_timestep.py
+2024-11-28 23:03:19,826::start:Run Excel model
+2024-11-28 23:03:20,187::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:03:37,845::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:03:37,980::start:Assign style
+2024-11-28 23:03:37,992::end:Assign style
+2024-11-28 23:03:37,993::start:Save current layer
+2024-11-28 23:03:37,994::end:Save current layer
+2024-11-28 23:03:37,994::start:Reset view
+2024-11-28 23:03:38,026::end:Reset view
+2024-11-28 23:03:38,075::start:Extract tailings beach
+2024-11-28 23:03:38,394::end:Extract tailings beach
+2024-11-28 23:03:38,395::start:Extract surface outline
+2024-11-28 23:03:38,490::end:Extract surface outline
+2024-11-28 23:03:38,582::start:Find minimum distance between lines
+2024-11-28 23:03:38,693::end:Find minimum distance between lines
+2024-11-28 23:03:38,907::start:Load scene
+2024-11-28 23:03:39,778::end:Load scene
+2024-11-28 23:03:39,915::end:Run Excel model
+2024-11-28 23:03:39,915::end:run_one_timestep.py
+2024-11-28 23:03:51,029::start:Increment_run.py
+2024-11-28 23:03:51,030::end:Increment_run.py
+2024-11-28 23:04:00,901::start:run_one_timestep.py
+2024-11-28 23:04:00,903::start:Run Excel model
+2024-11-28 23:04:01,194::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:04:21,890::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:04:22,026::start:Assign style
+2024-11-28 23:04:22,038::end:Assign style
+2024-11-28 23:04:22,038::start:Save current layer
+2024-11-28 23:04:22,039::end:Save current layer
+2024-11-28 23:04:22,040::start:Reset view
+2024-11-28 23:04:22,072::end:Reset view
+2024-11-28 23:04:22,140::start:Extract tailings beach
+2024-11-28 23:04:22,696::end:Extract tailings beach
+2024-11-28 23:04:22,696::start:Extract surface outline
+2024-11-28 23:04:22,802::end:Extract surface outline
+2024-11-28 23:04:22,948::start:Find minimum distance between lines
+2024-11-28 23:04:23,088::end:Find minimum distance between lines
+2024-11-28 23:04:23,321::start:Load scene
+2024-11-28 23:04:24,644::end:Load scene
+2024-11-28 23:04:24,778::end:Run Excel model
+2024-11-28 23:04:24,778::end:run_one_timestep.py
+2024-11-28 23:04:48,000::start:Increment_run.py
+2024-11-28 23:04:48,003::end:Increment_run.py
+2024-11-28 23:04:49,921::start:run_one_timestep.py
+2024-11-28 23:04:49,924::start:Run Excel model
+2024-11-28 23:04:50,233::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:05:07,434::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:05:07,569::start:Assign style
+2024-11-28 23:05:07,579::end:Assign style
+2024-11-28 23:05:07,581::start:Save current layer
+2024-11-28 23:05:07,582::end:Save current layer
+2024-11-28 23:05:07,582::start:Reset view
+2024-11-28 23:05:07,617::end:Reset view
+2024-11-28 23:05:07,667::start:Extract tailings beach
+2024-11-28 23:05:08,029::end:Extract tailings beach
+2024-11-28 23:05:08,029::start:Extract surface outline
+2024-11-28 23:05:08,121::end:Extract surface outline
+2024-11-28 23:05:08,217::start:Find minimum distance between lines
+2024-11-28 23:05:08,326::end:Find minimum distance between lines
+2024-11-28 23:05:08,543::start:Load scene
+2024-11-28 23:05:09,398::end:Load scene
+2024-11-28 23:05:09,530::end:Run Excel model
+2024-11-28 23:05:09,530::end:run_one_timestep.py
+2024-11-28 23:05:19,528::start:run_one_timestep.py
+2024-11-28 23:05:19,529::start:Run Excel model
+2024-11-28 23:05:19,832::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:05:37,213::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:05:37,349::start:Assign style
+2024-11-28 23:05:37,359::end:Assign style
+2024-11-28 23:05:37,361::start:Save current layer
+2024-11-28 23:05:37,364::end:Save current layer
+2024-11-28 23:05:37,364::start:Reset view
+2024-11-28 23:05:37,398::end:Reset view
+2024-11-28 23:05:37,448::start:Extract tailings beach
+2024-11-28 23:05:37,831::end:Extract tailings beach
+2024-11-28 23:05:37,832::start:Extract surface outline
+2024-11-28 23:05:37,924::end:Extract surface outline
+2024-11-28 23:05:38,019::start:Find minimum distance between lines
+2024-11-28 23:05:38,141::end:Find minimum distance between lines
+2024-11-28 23:05:38,362::start:Load scene
+2024-11-28 23:05:39,219::end:Load scene
+2024-11-28 23:05:39,431::end:Run Excel model
+2024-11-28 23:05:39,431::end:run_one_timestep.py
+2024-11-28 23:06:39,953::start:Clear graphics
+2024-11-28 23:06:39,997::end:Clear graphics
+2024-11-28 23:07:35,756::start:show_current_run.py
+2024-11-28 23:07:35,759::end:show_current_run.py
+2024-11-28 23:07:41,982::start:Increment_run.py
+2024-11-28 23:07:41,983::end:Increment_run.py
+2024-11-28 23:07:53,809::start:Load scene
+2024-11-28 23:07:55,053::end:Load scene
+2024-11-28 23:08:01,921::start:Open geometry
+2024-11-28 23:08:02,227::end:Open geometry
+2024-11-28 23:08:58,867::start:run_one_timestep.py
+2024-11-28 23:08:58,869::start:Run Excel model
+2024-11-28 23:08:59,160::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:09:19,973::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:09:20,115::start:Assign style
+2024-11-28 23:09:20,125::end:Assign style
+2024-11-28 23:09:20,125::start:Save current layer
+2024-11-28 23:09:20,128::end:Save current layer
+2024-11-28 23:09:20,128::start:Reset view
+2024-11-28 23:09:20,164::end:Reset view
+2024-11-28 23:09:20,213::start:Extract tailings beach
+2024-11-28 23:09:20,634::end:Extract tailings beach
+2024-11-28 23:09:20,634::start:Extract surface outline
+2024-11-28 23:09:20,727::end:Extract surface outline
+2024-11-28 23:09:20,823::start:Find minimum distance between lines
+2024-11-28 23:09:20,971::end:Find minimum distance between lines
+2024-11-28 23:09:21,173::start:Load scene
+2024-11-28 23:09:22,026::end:Load scene
+2024-11-28 23:09:22,153::end:Run Excel model
+2024-11-28 23:09:22,154::end:run_one_timestep.py
+2024-11-28 23:09:33,756::start:run_one_timestep.py
+2024-11-28 23:09:33,756::start:Run Excel model
+2024-11-28 23:09:34,061::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:09:51,278::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:09:51,417::start:Assign style
+2024-11-28 23:09:51,427::end:Assign style
+2024-11-28 23:09:51,428::start:Save current layer
+2024-11-28 23:09:51,430::end:Save current layer
+2024-11-28 23:09:51,430::start:Reset view
+2024-11-28 23:09:51,467::end:Reset view
+2024-11-28 23:09:51,520::start:Extract tailings beach
+2024-11-28 23:09:51,884::end:Extract tailings beach
+2024-11-28 23:09:51,884::start:Extract surface outline
+2024-11-28 23:09:51,977::end:Extract surface outline
+2024-11-28 23:09:52,071::start:Find minimum distance between lines
+2024-11-28 23:09:52,180::end:Find minimum distance between lines
+2024-11-28 23:09:52,390::start:Load scene
+2024-11-28 23:09:53,259::end:Load scene
+2024-11-28 23:09:53,385::end:Run Excel model
+2024-11-28 23:09:53,385::end:run_one_timestep.py
+2024-11-28 23:10:01,523::start:run_one_timestep.py
+2024-11-28 23:10:01,525::start:Run Excel model
+2024-11-28 23:10:01,812::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:10:19,046::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:10:19,190::start:Assign style
+2024-11-28 23:10:19,201::end:Assign style
+2024-11-28 23:10:19,203::start:Save current layer
+2024-11-28 23:10:19,207::end:Save current layer
+2024-11-28 23:10:19,207::start:Reset view
+2024-11-28 23:10:19,244::end:Reset view
+2024-11-28 23:10:19,303::start:Extract tailings beach
+2024-11-28 23:10:19,653::end:Extract tailings beach
+2024-11-28 23:10:19,653::start:Extract surface outline
+2024-11-28 23:10:19,746::end:Extract surface outline
+2024-11-28 23:10:19,842::start:Find minimum distance between lines
+2024-11-28 23:10:19,996::end:Find minimum distance between lines
+2024-11-28 23:10:20,210::start:Load scene
+2024-11-28 23:10:21,180::end:Load scene
+2024-11-28 23:10:21,311::end:Run Excel model
+2024-11-28 23:10:21,311::end:run_one_timestep.py
+2024-11-28 23:14:11,428::start:Clear graphics
+2024-11-28 23:14:11,483::end:Clear graphics
+2024-11-28 23:14:12,884::start:run_everything.py
+2024-11-28 23:14:12,884::start:Run Excel model
+2024-11-28 23:14:13,023::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:14:28,357::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:14:28,473::start:Assign style
+2024-11-28 23:14:28,486::end:Assign style
+2024-11-28 23:14:28,487::start:Save current layer
+2024-11-28 23:14:28,490::end:Save current layer
+2024-11-28 23:14:28,490::start:Reset view
+2024-11-28 23:14:28,506::end:Reset view
+2024-11-28 23:14:28,568::start:Extract tailings beach
+2024-11-28 23:14:28,888::end:Extract tailings beach
+2024-11-28 23:14:28,888::start:Extract surface outline
+2024-11-28 23:14:28,992::end:Extract surface outline
+2024-11-28 23:14:29,091::start:Find minimum distance between lines
+2024-11-28 23:14:29,209::end:Find minimum distance between lines
+2024-11-28 23:14:29,424::start:Load scene
+2024-11-28 23:14:30,309::end:Load scene
+2024-11-28 23:14:30,556::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:14:51,280::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:14:51,400::start:Assign style
+2024-11-28 23:14:51,411::end:Assign style
+2024-11-28 23:14:51,413::start:Save current layer
+2024-11-28 23:14:51,415::end:Save current layer
+2024-11-28 23:14:51,415::start:Reset view
+2024-11-28 23:14:51,431::end:Reset view
+2024-11-28 23:14:51,486::start:Extract tailings beach
+2024-11-28 23:14:51,780::end:Extract tailings beach
+2024-11-28 23:14:51,780::start:Extract surface outline
+2024-11-28 23:14:51,881::end:Extract surface outline
+2024-11-28 23:14:51,976::start:Find minimum distance between lines
+2024-11-28 23:14:52,094::end:Find minimum distance between lines
+2024-11-28 23:14:52,322::start:Load scene
+2024-11-28 23:14:53,191::end:Load scene
+2024-11-28 23:14:53,443::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:05,282::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:05,404::start:Assign style
+2024-11-28 23:15:05,414::end:Assign style
+2024-11-28 23:15:05,415::start:Save current layer
+2024-11-28 23:15:05,417::end:Save current layer
+2024-11-28 23:15:05,417::start:Reset view
+2024-11-28 23:15:05,437::end:Reset view
+2024-11-28 23:15:05,486::start:Extract tailings beach
+2024-11-28 23:15:05,788::end:Extract tailings beach
+2024-11-28 23:15:05,788::start:Extract surface outline
+2024-11-28 23:15:05,882::end:Extract surface outline
+2024-11-28 23:15:05,977::start:Find minimum distance between lines
+2024-11-28 23:15:06,092::end:Find minimum distance between lines
+2024-11-28 23:15:06,323::start:Load scene
+2024-11-28 23:15:07,206::end:Load scene
+2024-11-28 23:15:07,457::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:29,371::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:29,496::start:Assign style
+2024-11-28 23:15:29,506::end:Assign style
+2024-11-28 23:15:29,507::start:Save current layer
+2024-11-28 23:15:29,510::end:Save current layer
+2024-11-28 23:15:29,510::start:Reset view
+2024-11-28 23:15:29,532::end:Reset view
+2024-11-28 23:15:29,588::start:Extract tailings beach
+2024-11-28 23:15:29,901::end:Extract tailings beach
+2024-11-28 23:15:29,901::start:Extract surface outline
+2024-11-28 23:15:29,990::end:Extract surface outline
+2024-11-28 23:15:30,082::start:Find minimum distance between lines
+2024-11-28 23:15:30,187::end:Find minimum distance between lines
+2024-11-28 23:15:30,433::start:Load scene
+2024-11-28 23:15:31,323::end:Load scene
+2024-11-28 23:15:31,575::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:50,647::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:15:50,770::start:Assign style
+2024-11-28 23:15:50,782::end:Assign style
+2024-11-28 23:15:50,782::start:Save current layer
+2024-11-28 23:15:50,785::end:Save current layer
+2024-11-28 23:15:50,785::start:Reset view
+2024-11-28 23:15:50,795::end:Reset view
+2024-11-28 23:15:50,855::start:Extract tailings beach
+2024-11-28 23:15:51,186::end:Extract tailings beach
+2024-11-28 23:15:51,187::start:Extract surface outline
+2024-11-28 23:15:51,279::end:Extract surface outline
+2024-11-28 23:15:51,378::start:Find minimum distance between lines
+2024-11-28 23:15:51,493::end:Find minimum distance between lines
+2024-11-28 23:15:51,719::start:Load scene
+2024-11-28 23:15:52,612::end:Load scene
+2024-11-28 23:15:52,861::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:13,670::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:13,809::start:Assign style
+2024-11-28 23:16:13,821::end:Assign style
+2024-11-28 23:16:13,822::start:Save current layer
+2024-11-28 23:16:13,823::end:Save current layer
+2024-11-28 23:16:13,823::start:Reset view
+2024-11-28 23:16:13,849::end:Reset view
+2024-11-28 23:16:13,901::start:Extract tailings beach
+2024-11-28 23:16:14,246::end:Extract tailings beach
+2024-11-28 23:16:14,246::start:Extract surface outline
+2024-11-28 23:16:14,341::end:Extract surface outline
+2024-11-28 23:16:14,434::start:Find minimum distance between lines
+2024-11-28 23:16:14,546::end:Find minimum distance between lines
+2024-11-28 23:16:14,756::start:Load scene
+2024-11-28 23:16:15,625::end:Load scene
+2024-11-28 23:16:15,878::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:32,642::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:32,773::start:Assign style
+2024-11-28 23:16:32,782::end:Assign style
+2024-11-28 23:16:32,783::start:Save current layer
+2024-11-28 23:16:32,786::end:Save current layer
+2024-11-28 23:16:32,786::start:Reset view
+2024-11-28 23:16:32,812::end:Reset view
+2024-11-28 23:16:32,862::start:Extract tailings beach
+2024-11-28 23:16:33,188::end:Extract tailings beach
+2024-11-28 23:16:33,188::start:Extract surface outline
+2024-11-28 23:16:33,282::end:Extract surface outline
+2024-11-28 23:16:33,375::start:Find minimum distance between lines
+2024-11-28 23:16:33,486::end:Find minimum distance between lines
+2024-11-28 23:16:33,709::start:Load scene
+2024-11-28 23:16:34,592::end:Load scene
+2024-11-28 23:16:34,845::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:51,842::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:16:51,973::start:Assign style
+2024-11-28 23:16:51,983::end:Assign style
+2024-11-28 23:16:51,986::start:Save current layer
+2024-11-28 23:16:51,987::end:Save current layer
+2024-11-28 23:16:51,987::start:Reset view
+2024-11-28 23:16:52,016::end:Reset view
+2024-11-28 23:16:52,066::start:Extract tailings beach
+2024-11-28 23:16:52,421::end:Extract tailings beach
+2024-11-28 23:16:52,421::start:Extract surface outline
+2024-11-28 23:16:52,519::end:Extract surface outline
+2024-11-28 23:16:52,614::start:Find minimum distance between lines
+2024-11-28 23:16:52,730::end:Find minimum distance between lines
+2024-11-28 23:16:52,941::start:Load scene
+2024-11-28 23:16:53,828::end:Load scene
+2024-11-28 23:16:54,079::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:16,359::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:16,515::start:Assign style
+2024-11-28 23:17:16,526::end:Assign style
+2024-11-28 23:17:16,526::start:Save current layer
+2024-11-28 23:17:16,529::end:Save current layer
+2024-11-28 23:17:16,529::start:Reset view
+2024-11-28 23:17:16,559::end:Reset view
+2024-11-28 23:17:16,611::start:Extract tailings beach
+2024-11-28 23:17:16,966::end:Extract tailings beach
+2024-11-28 23:17:16,967::start:Extract surface outline
+2024-11-28 23:17:17,066::end:Extract surface outline
+2024-11-28 23:17:17,161::start:Find minimum distance between lines
+2024-11-28 23:17:17,328::end:Find minimum distance between lines
+2024-11-28 23:17:17,529::start:Load scene
+2024-11-28 23:17:18,463::end:Load scene
+2024-11-28 23:17:18,714::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:38,546::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:38,684::start:Assign style
+2024-11-28 23:17:38,698::end:Assign style
+2024-11-28 23:17:38,700::start:Save current layer
+2024-11-28 23:17:38,701::end:Save current layer
+2024-11-28 23:17:38,703::start:Reset view
+2024-11-28 23:17:38,733::end:Reset view
+2024-11-28 23:17:38,786::start:Extract tailings beach
+2024-11-28 23:17:39,157::end:Extract tailings beach
+2024-11-28 23:17:39,157::start:Extract surface outline
+2024-11-28 23:17:39,256::end:Extract surface outline
+2024-11-28 23:17:39,351::start:Find minimum distance between lines
+2024-11-28 23:17:39,467::end:Find minimum distance between lines
+2024-11-28 23:17:39,677::start:Load scene
+2024-11-28 23:17:40,584::end:Load scene
+2024-11-28 23:17:40,848::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:52,303::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:17:52,315::end:Run Excel model
+2024-11-28 23:17:52,315::end:run_everything.py
+2024-11-28 23:19:26,145::start:Clear graphics
+2024-11-28 23:19:26,181::end:Clear graphics
+2024-11-28 23:19:35,023::start:set_current_run.py
+2024-11-28 23:19:37,834::end:set_current_run.py
+2024-11-28 23:19:45,003::start:run_everything.py
+2024-11-28 23:19:45,005::start:Run Excel model
+2024-11-28 23:19:45,117::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:19:58,739::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:19:58,855::start:Assign style
+2024-11-28 23:19:58,868::end:Assign style
+2024-11-28 23:19:58,869::start:Save current layer
+2024-11-28 23:19:58,871::end:Save current layer
+2024-11-28 23:19:58,871::start:Reset view
+2024-11-28 23:19:58,885::end:Reset view
+2024-11-28 23:19:58,950::start:Extract tailings beach
+2024-11-28 23:19:59,240::end:Extract tailings beach
+2024-11-28 23:19:59,240::start:Extract surface outline
+2024-11-28 23:19:59,336::end:Extract surface outline
+2024-11-28 23:19:59,436::start:Find minimum distance between lines
+2024-11-28 23:19:59,555::end:Find minimum distance between lines
+2024-11-28 23:19:59,801::start:Load scene
+2024-11-28 23:20:00,655::end:Load scene
+2024-11-28 23:20:00,921::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:12,963::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:13,078::start:Assign style
+2024-11-28 23:20:13,091::end:Assign style
+2024-11-28 23:20:13,092::start:Save current layer
+2024-11-28 23:20:13,094::end:Save current layer
+2024-11-28 23:20:13,094::start:Reset view
+2024-11-28 23:20:13,111::end:Reset view
+2024-11-28 23:20:13,167::start:Extract tailings beach
+2024-11-28 23:20:13,454::end:Extract tailings beach
+2024-11-28 23:20:13,454::start:Extract surface outline
+2024-11-28 23:20:13,549::end:Extract surface outline
+2024-11-28 23:20:13,644::start:Find minimum distance between lines
+2024-11-28 23:20:13,763::end:Find minimum distance between lines
+2024-11-28 23:20:14,003::start:Load scene
+2024-11-28 23:20:14,868::end:Load scene
+2024-11-28 23:20:15,121::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:29,927::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:30,051::start:Assign style
+2024-11-28 23:20:30,063::end:Assign style
+2024-11-28 23:20:30,065::start:Save current layer
+2024-11-28 23:20:30,068::end:Save current layer
+2024-11-28 23:20:30,068::start:Reset view
+2024-11-28 23:20:30,092::end:Reset view
+2024-11-28 23:20:30,165::start:Extract tailings beach
+2024-11-28 23:20:30,456::end:Extract tailings beach
+2024-11-28 23:20:30,456::start:Extract surface outline
+2024-11-28 23:20:30,551::end:Extract surface outline
+2024-11-28 23:20:30,645::start:Find minimum distance between lines
+2024-11-28 23:20:30,759::end:Find minimum distance between lines
+2024-11-28 23:20:31,009::start:Load scene
+2024-11-28 23:20:31,871::end:Load scene
+2024-11-28 23:20:32,121::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:47,171::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:20:47,296::start:Assign style
+2024-11-28 23:20:47,308::end:Assign style
+2024-11-28 23:20:47,309::start:Save current layer
+2024-11-28 23:20:47,311::end:Save current layer
+2024-11-28 23:20:47,312::start:Reset view
+2024-11-28 23:20:47,334::end:Reset view
+2024-11-28 23:20:47,384::start:Extract tailings beach
+2024-11-28 23:20:47,723::end:Extract tailings beach
+2024-11-28 23:20:47,723::start:Extract surface outline
+2024-11-28 23:20:47,812::end:Extract surface outline
+2024-11-28 23:20:47,903::start:Find minimum distance between lines
+2024-11-28 23:20:48,003::end:Find minimum distance between lines
+2024-11-28 23:20:48,220::start:Load scene
+2024-11-28 23:20:49,072::end:Load scene
+2024-11-28 23:20:49,322::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:07,104::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:07,230::start:Assign style
+2024-11-28 23:21:07,240::end:Assign style
+2024-11-28 23:21:07,242::start:Save current layer
+2024-11-28 23:21:07,243::end:Save current layer
+2024-11-28 23:21:07,243::start:Reset view
+2024-11-28 23:21:07,266::end:Reset view
+2024-11-28 23:21:07,319::start:Extract tailings beach
+2024-11-28 23:21:07,683::end:Extract tailings beach
+2024-11-28 23:21:07,683::start:Extract surface outline
+2024-11-28 23:21:07,780::end:Extract surface outline
+2024-11-28 23:21:07,874::start:Find minimum distance between lines
+2024-11-28 23:21:07,992::end:Find minimum distance between lines
+2024-11-28 23:21:08,203::start:Load scene
+2024-11-28 23:21:09,072::end:Load scene
+2024-11-28 23:21:09,323::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:27,119::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:27,249::start:Assign style
+2024-11-28 23:21:27,259::end:Assign style
+2024-11-28 23:21:27,260::start:Save current layer
+2024-11-28 23:21:27,263::end:Save current layer
+2024-11-28 23:21:27,263::start:Reset view
+2024-11-28 23:21:27,286::end:Reset view
+2024-11-28 23:21:27,338::start:Extract tailings beach
+2024-11-28 23:21:27,671::end:Extract tailings beach
+2024-11-28 23:21:27,671::start:Extract surface outline
+2024-11-28 23:21:27,766::end:Extract surface outline
+2024-11-28 23:21:27,861::start:Find minimum distance between lines
+2024-11-28 23:21:27,976::end:Find minimum distance between lines
+2024-11-28 23:21:28,187::start:Load scene
+2024-11-28 23:21:29,048::end:Load scene
+2024-11-28 23:21:29,292::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:44,780::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:44,908::start:Assign style
+2024-11-28 23:21:44,924::end:Assign style
+2024-11-28 23:21:44,924::start:Save current layer
+2024-11-28 23:21:44,927::end:Save current layer
+2024-11-28 23:21:44,927::start:Reset view
+2024-11-28 23:21:44,953::end:Reset view
+2024-11-28 23:21:45,003::start:Extract tailings beach
+2024-11-28 23:21:45,334::end:Extract tailings beach
+2024-11-28 23:21:45,334::start:Extract surface outline
+2024-11-28 23:21:45,427::end:Extract surface outline
+2024-11-28 23:21:45,517::start:Find minimum distance between lines
+2024-11-28 23:21:45,622::end:Find minimum distance between lines
+2024-11-28 23:21:45,838::start:Load scene
+2024-11-28 23:21:46,700::end:Load scene
+2024-11-28 23:21:46,944::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:54,578::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:21:54,709::start:Assign style
+2024-11-28 23:21:54,724::end:Assign style
+2024-11-28 23:21:54,727::start:Save current layer
+2024-11-28 23:21:54,730::end:Save current layer
+2024-11-28 23:21:54,732::start:Reset view
+2024-11-28 23:21:54,799::end:Reset view
+2024-11-28 23:21:54,957::start:Extract tailings beach
+2024-11-28 23:21:55,299::end:Extract tailings beach
+2024-11-28 23:21:55,299::start:Extract surface outline
+2024-11-28 23:21:55,395::end:Extract surface outline
+2024-11-28 23:21:55,490::start:Find minimum distance between lines
+2024-11-28 23:21:55,608::end:Find minimum distance between lines
+2024-11-28 23:21:55,822::start:Load scene
+2024-11-28 23:21:56,677::end:Load scene
+2024-11-28 23:21:56,927::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:14,846::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:14,977::start:Assign style
+2024-11-28 23:22:14,992::end:Assign style
+2024-11-28 23:22:14,993::start:Save current layer
+2024-11-28 23:22:14,994::end:Save current layer
+2024-11-28 23:22:14,994::start:Reset view
+2024-11-28 23:22:15,023::end:Reset view
+2024-11-28 23:22:15,086::start:Extract tailings beach
+2024-11-28 23:22:15,413::end:Extract tailings beach
+2024-11-28 23:22:15,413::start:Extract surface outline
+2024-11-28 23:22:15,506::end:Extract surface outline
+2024-11-28 23:22:15,598::start:Find minimum distance between lines
+2024-11-28 23:22:15,711::end:Find minimum distance between lines
+2024-11-28 23:22:15,923::start:Load scene
+2024-11-28 23:22:16,815::end:Load scene
+2024-11-28 23:22:17,111::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:33,848::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:33,986::start:Assign style
+2024-11-28 23:22:33,996::end:Assign style
+2024-11-28 23:22:33,996::start:Save current layer
+2024-11-28 23:22:33,999::end:Save current layer
+2024-11-28 23:22:33,999::start:Reset view
+2024-11-28 23:22:34,029::end:Reset view
+2024-11-28 23:22:34,081::start:Extract tailings beach
+2024-11-28 23:22:34,430::end:Extract tailings beach
+2024-11-28 23:22:34,430::start:Extract surface outline
+2024-11-28 23:22:34,523::end:Extract surface outline
+2024-11-28 23:22:34,617::start:Find minimum distance between lines
+2024-11-28 23:22:34,726::end:Find minimum distance between lines
+2024-11-28 23:22:34,940::start:Load scene
+2024-11-28 23:22:35,813::end:Load scene
+2024-11-28 23:22:36,062::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:53,540::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:22:53,677::start:Assign style
+2024-11-28 23:22:53,688::end:Assign style
+2024-11-28 23:22:53,690::start:Save current layer
+2024-11-28 23:22:53,693::end:Save current layer
+2024-11-28 23:22:53,693::start:Reset view
+2024-11-28 23:22:53,724::end:Reset view
+2024-11-28 23:22:53,773::start:Extract tailings beach
+2024-11-28 23:22:54,118::end:Extract tailings beach
+2024-11-28 23:22:54,118::start:Extract surface outline
+2024-11-28 23:22:54,213::end:Extract surface outline
+2024-11-28 23:22:54,308::start:Find minimum distance between lines
+2024-11-28 23:22:54,434::end:Find minimum distance between lines
+2024-11-28 23:22:54,641::start:Load scene
+2024-11-28 23:22:55,500::end:Load scene
+2024-11-28 23:22:55,746::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:23:13,224::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:23:13,359::start:Assign style
+2024-11-28 23:23:13,377::end:Assign style
+2024-11-28 23:23:13,378::start:Save current layer
+2024-11-28 23:23:13,380::end:Save current layer
+2024-11-28 23:23:13,380::start:Reset view
+2024-11-28 23:23:13,413::end:Reset view
+2024-11-28 23:23:13,463::start:Extract tailings beach
+2024-11-28 23:23:13,832::end:Extract tailings beach
+2024-11-28 23:23:13,832::start:Extract surface outline
+2024-11-28 23:23:13,927::end:Extract surface outline
+2024-11-28 23:23:14,023::start:Find minimum distance between lines
+2024-11-28 23:23:14,176::end:Find minimum distance between lines
+2024-11-28 23:23:14,378::start:Load scene
+2024-11-28 23:23:15,244::end:Load scene
+2024-11-28 23:23:15,374::end:Run Excel model
+2024-11-28 23:23:15,378::end:run_everything.py
+2024-11-28 23:29:41,160::start:aa.py
+2024-11-28 23:29:41,161::start:Load scene
+2024-11-28 23:29:48,611::end:Load scene
+2024-11-28 23:29:48,611::end:aa.py
+2024-11-28 23:30:26,232::start:run_everything.py
+2024-11-28 23:30:26,234::end:run_everything.py
+2024-11-28 23:30:37,740::start:run_everything.py
+2024-11-28 23:30:37,742::end:run_everything.py
+2024-11-28 23:30:56,831::start:run_everything.py
+2024-11-28 23:30:56,832::start:Run Excel model
+2024-11-28 23:30:57,150::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:11,079::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:11,221::start:Assign style
+2024-11-28 23:31:11,233::end:Assign style
+2024-11-28 23:31:11,233::start:Save current layer
+2024-11-28 23:31:11,234::end:Save current layer
+2024-11-28 23:31:11,234::start:Reset view
+2024-11-28 23:31:11,273::end:Reset view
+2024-11-28 23:31:11,322::start:Extract tailings beach
+2024-11-28 23:31:11,664::end:Extract tailings beach
+2024-11-28 23:31:11,664::start:Extract surface outline
+2024-11-28 23:31:11,763::end:Extract surface outline
+2024-11-28 23:31:11,864::start:Find minimum distance between lines
+2024-11-28 23:31:11,992::end:Find minimum distance between lines
+2024-11-28 23:31:12,213::start:Load scene
+2024-11-28 23:31:13,082::end:Load scene
+2024-11-28 23:31:13,334::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:25,502::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:25,641::start:Assign style
+2024-11-28 23:31:25,651::end:Assign style
+2024-11-28 23:31:25,653::start:Save current layer
+2024-11-28 23:31:25,654::end:Save current layer
+2024-11-28 23:31:25,654::start:Reset view
+2024-11-28 23:31:25,691::end:Reset view
+2024-11-28 23:31:25,743::start:Extract tailings beach
+2024-11-28 23:31:26,098::end:Extract tailings beach
+2024-11-28 23:31:26,098::start:Extract surface outline
+2024-11-28 23:31:26,197::end:Extract surface outline
+2024-11-28 23:31:26,290::start:Find minimum distance between lines
+2024-11-28 23:31:26,418::end:Find minimum distance between lines
+2024-11-28 23:31:26,630::start:Load scene
+2024-11-28 23:31:27,482::end:Load scene
+2024-11-28 23:31:27,734::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:42,786::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:31:42,926::start:Assign style
+2024-11-28 23:31:42,938::end:Assign style
+2024-11-28 23:31:42,940::start:Save current layer
+2024-11-28 23:31:42,943::end:Save current layer
+2024-11-28 23:31:42,943::start:Reset view
+2024-11-28 23:31:42,983::end:Reset view
+2024-11-28 23:31:43,046::start:Extract tailings beach
+2024-11-28 23:31:43,426::end:Extract tailings beach
+2024-11-28 23:31:43,426::start:Extract surface outline
+2024-11-28 23:31:43,522::end:Extract surface outline
+2024-11-28 23:31:43,618::start:Find minimum distance between lines
+2024-11-28 23:31:43,767::end:Find minimum distance between lines
+2024-11-28 23:31:43,983::start:Load scene
+2024-11-28 23:31:44,865::end:Load scene
+2024-11-28 23:31:45,118::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:00,417::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:00,556::start:Assign style
+2024-11-28 23:32:00,568::end:Assign style
+2024-11-28 23:32:00,569::start:Save current layer
+2024-11-28 23:32:00,571::end:Save current layer
+2024-11-28 23:32:00,571::start:Reset view
+2024-11-28 23:32:00,607::end:Reset view
+2024-11-28 23:32:00,671::start:Extract tailings beach
+2024-11-28 23:32:01,039::end:Extract tailings beach
+2024-11-28 23:32:01,039::start:Extract surface outline
+2024-11-28 23:32:01,131::end:Extract surface outline
+2024-11-28 23:32:01,221::start:Find minimum distance between lines
+2024-11-28 23:32:01,367::end:Find minimum distance between lines
+2024-11-28 23:32:01,586::start:Load scene
+2024-11-28 23:32:02,451::end:Load scene
+2024-11-28 23:32:02,736::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:20,716::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:20,855::start:Assign style
+2024-11-28 23:32:20,868::end:Assign style
+2024-11-28 23:32:20,868::start:Save current layer
+2024-11-28 23:32:20,871::end:Save current layer
+2024-11-28 23:32:20,871::start:Reset view
+2024-11-28 23:32:20,905::end:Reset view
+2024-11-28 23:32:20,961::start:Extract tailings beach
+2024-11-28 23:32:21,326::end:Extract tailings beach
+2024-11-28 23:32:21,326::start:Extract surface outline
+2024-11-28 23:32:21,427::end:Extract surface outline
+2024-11-28 23:32:21,519::start:Find minimum distance between lines
+2024-11-28 23:32:21,680::end:Find minimum distance between lines
+2024-11-28 23:32:21,884::start:Load scene
+2024-11-28 23:32:22,759::end:Load scene
+2024-11-28 23:32:23,019::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:40,983::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:41,122::start:Assign style
+2024-11-28 23:32:41,135::end:Assign style
+2024-11-28 23:32:41,137::start:Save current layer
+2024-11-28 23:32:41,138::end:Save current layer
+2024-11-28 23:32:41,138::start:Reset view
+2024-11-28 23:32:41,176::end:Reset view
+2024-11-28 23:32:41,308::start:Extract tailings beach
+2024-11-28 23:32:41,671::end:Extract tailings beach
+2024-11-28 23:32:41,671::start:Extract surface outline
+2024-11-28 23:32:41,773::end:Extract surface outline
+2024-11-28 23:32:41,891::start:Find minimum distance between lines
+2024-11-28 23:32:42,042::end:Find minimum distance between lines
+2024-11-28 23:32:42,266::start:Load scene
+2024-11-28 23:32:43,141::end:Load scene
+2024-11-28 23:32:43,388::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:58,987::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:32:59,137::start:Assign style
+2024-11-28 23:32:59,148::end:Assign style
+2024-11-28 23:32:59,148::start:Save current layer
+2024-11-28 23:32:59,151::end:Save current layer
+2024-11-28 23:32:59,151::start:Reset view
+2024-11-28 23:32:59,187::end:Reset view
+2024-11-28 23:32:59,345::start:Extract tailings beach
+2024-11-28 23:32:59,812::end:Extract tailings beach
+2024-11-28 23:32:59,812::start:Extract surface outline
+2024-11-28 23:32:59,914::end:Extract surface outline
+2024-11-28 23:33:00,066::start:Find minimum distance between lines
+2024-11-28 23:33:00,177::end:Find minimum distance between lines
+2024-11-28 23:33:00,401::start:Load scene
+2024-11-28 23:33:01,253::end:Load scene
+2024-11-28 23:33:01,506::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:09,273::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:09,434::start:Assign style
+2024-11-28 23:33:09,446::end:Assign style
+2024-11-28 23:33:09,447::start:Save current layer
+2024-11-28 23:33:09,448::end:Save current layer
+2024-11-28 23:33:09,448::start:Reset view
+2024-11-28 23:33:09,484::end:Reset view
+2024-11-28 23:33:09,538::start:Extract tailings beach
+2024-11-28 23:33:10,049::end:Extract tailings beach
+2024-11-28 23:33:10,049::start:Extract surface outline
+2024-11-28 23:33:10,157::end:Extract surface outline
+2024-11-28 23:33:10,282::start:Find minimum distance between lines
+2024-11-28 23:33:10,405::end:Find minimum distance between lines
+2024-11-28 23:33:10,618::start:Load scene
+2024-11-28 23:33:11,513::end:Load scene
+2024-11-28 23:33:11,773::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:29,792::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:29,933::start:Assign style
+2024-11-28 23:33:29,944::end:Assign style
+2024-11-28 23:33:29,944::start:Save current layer
+2024-11-28 23:33:29,947::end:Save current layer
+2024-11-28 23:33:29,947::start:Reset view
+2024-11-28 23:33:29,987::end:Reset view
+2024-11-28 23:33:30,171::start:Extract tailings beach
+2024-11-28 23:33:30,532::end:Extract tailings beach
+2024-11-28 23:33:30,532::start:Extract surface outline
+2024-11-28 23:33:30,628::end:Extract surface outline
+2024-11-28 23:33:30,778::start:Find minimum distance between lines
+2024-11-28 23:33:30,895::end:Find minimum distance between lines
+2024-11-28 23:33:31,118::start:Load scene
+2024-11-28 23:33:32,006::end:Load scene
+2024-11-28 23:33:32,256::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:49,260::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:33:49,403::start:Assign style
+2024-11-28 23:33:49,414::end:Assign style
+2024-11-28 23:33:49,415::start:Save current layer
+2024-11-28 23:33:49,418::end:Save current layer
+2024-11-28 23:33:49,418::start:Reset view
+2024-11-28 23:33:49,473::end:Reset view
+2024-11-28 23:33:49,536::start:Extract tailings beach
+2024-11-28 23:33:49,940::end:Extract tailings beach
+2024-11-28 23:33:49,940::start:Extract surface outline
+2024-11-28 23:33:50,032::end:Extract surface outline
+2024-11-28 23:33:50,127::start:Find minimum distance between lines
+2024-11-28 23:33:50,239::end:Find minimum distance between lines
+2024-11-28 23:33:50,453::start:Load scene
+2024-11-28 23:33:51,313::end:Load scene
+2024-11-28 23:33:51,556::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:34:09,753::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:34:09,895::start:Assign style
+2024-11-28 23:34:09,907::end:Assign style
+2024-11-28 23:34:09,907::start:Save current layer
+2024-11-28 23:34:09,910::end:Save current layer
+2024-11-28 23:34:09,910::start:Reset view
+2024-11-28 23:34:09,947::end:Reset view
+2024-11-28 23:34:09,997::start:Extract tailings beach
+2024-11-28 23:34:10,374::end:Extract tailings beach
+2024-11-28 23:34:10,375::start:Extract surface outline
+2024-11-28 23:34:10,471::end:Extract surface outline
+2024-11-28 23:34:10,575::start:Find minimum distance between lines
+2024-11-28 23:34:10,706::end:Find minimum distance between lines
+2024-11-28 23:34:10,921::start:Load scene
+2024-11-28 23:34:11,792::end:Load scene
+2024-11-28 23:34:12,042::start:Single stream fixed pond volume, user flow path
+2024-11-28 23:34:30,174::end:Single stream fixed pond volume, user flow path
+2024-11-28 23:34:30,315::start:Assign style
+2024-11-28 23:34:30,326::end:Assign style
+2024-11-28 23:34:30,328::start:Save current layer
+2024-11-28 23:34:30,329::end:Save current layer
+2024-11-28 23:34:30,329::start:Reset view
+2024-11-28 23:34:30,365::end:Reset view
+2024-11-28 23:34:30,417::start:Extract tailings beach
+2024-11-28 23:34:30,848::end:Extract tailings beach
+2024-11-28 23:34:30,848::start:Extract surface outline
+2024-11-28 23:34:30,946::end:Extract surface outline
+2024-11-28 23:34:31,055::start:Find minimum distance between lines
+2024-11-28 23:34:31,190::end:Find minimum distance between lines
+2024-11-28 23:34:31,404::start:Load scene
+2024-11-28 23:34:32,273::end:Load scene
+2024-11-28 23:34:32,394::end:Run Excel model
+2024-11-28 23:34:32,394::end:run_everything.py
+2024-11-28 23:37:52,408::start:Apply texture to object
+2024-11-28 23:37:52,410::start:Apply texture to object
+2024-11-28 23:37:54,767::end:Apply texture to object
+2024-11-29 09:10:09,221::start:Clear graphics
+2024-11-29 09:10:09,292::end:Clear graphics
+2024-11-29 09:15:05,099::end:Open project
+2024-11-29 09:15:37,681::start:C:\dev\repos\Muk3D_Sample_Datasets\Inpit\Scripts\set_base_data_for_run.py
+2024-11-29 09:15:58,976::end:C:\dev\repos\Muk3D_Sample_Datasets\Inpit\Scripts\set_base_data_for_run.py
+2024-11-29 09:16:02,423::start:C:\dev\repos\Muk3D_Sample_Datasets\Inpit\Scripts\set_base_data_for_run.py
+2024-11-29 09:16:04,671::end:C:\dev\repos\Muk3D_Sample_Datasets\Inpit\Scripts\set_base_data_for_run.py
+2024-11-29 09:16:09,497::start:show_current_run.py
+2024-11-29 09:16:09,506::end:show_current_run.py
+2024-11-29 09:16:14,341::start:run_everything.py
+2024-11-29 09:16:14,348::start:Run Excel model
+2024-11-29 09:16:14,730::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:16:29,808::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:16:29,924::start:Assign style
+2024-11-29 09:16:29,934::end:Assign style
+2024-11-29 09:16:29,937::start:Save current layer
+2024-11-29 09:16:29,940::end:Save current layer
+2024-11-29 09:16:29,940::start:Reset view
+2024-11-29 09:16:29,957::end:Reset view
+2024-11-29 09:16:30,009::start:Extract tailings beach
+2024-11-29 09:16:30,325::end:Extract tailings beach
+2024-11-29 09:16:30,325::start:Extract surface outline
+2024-11-29 09:16:30,426::end:Extract surface outline
+2024-11-29 09:16:30,525::start:Find minimum distance between lines
+2024-11-29 09:16:30,648::end:Find minimum distance between lines
+2024-11-29 09:16:30,859::start:Load scene
+2024-11-29 09:16:31,746::end:Load scene
+2024-11-29 09:16:31,997::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:16:45,061::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:16:45,180::start:Assign style
+2024-11-29 09:16:45,190::end:Assign style
+2024-11-29 09:16:45,193::start:Save current layer
+2024-11-29 09:16:45,194::end:Save current layer
+2024-11-29 09:16:45,194::start:Reset view
+2024-11-29 09:16:45,211::end:Reset view
+2024-11-29 09:16:45,266::start:Extract tailings beach
+2024-11-29 09:16:45,566::end:Extract tailings beach
+2024-11-29 09:16:45,566::start:Extract surface outline
+2024-11-29 09:16:45,664::end:Extract surface outline
+2024-11-29 09:16:45,759::start:Find minimum distance between lines
+2024-11-29 09:16:45,884::end:Find minimum distance between lines
+2024-11-29 09:16:46,094::start:Load scene
+2024-11-29 09:16:46,966::end:Load scene
+2024-11-29 09:16:47,213::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:02,348::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:02,549::start:Assign style
+2024-11-29 09:17:02,562::end:Assign style
+2024-11-29 09:17:02,562::start:Save current layer
+2024-11-29 09:17:02,565::end:Save current layer
+2024-11-29 09:17:02,565::start:Reset view
+2024-11-29 09:17:02,595::end:Reset view
+2024-11-29 09:17:02,658::start:Extract tailings beach
+2024-11-29 09:17:02,969::end:Extract tailings beach
+2024-11-29 09:17:02,969::start:Extract surface outline
+2024-11-29 09:17:03,063::end:Extract surface outline
+2024-11-29 09:17:03,160::start:Find minimum distance between lines
+2024-11-29 09:17:03,275::end:Find minimum distance between lines
+2024-11-29 09:17:03,494::start:Load scene
+2024-11-29 09:17:04,378::end:Load scene
+2024-11-29 09:17:04,631::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:20,213::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:20,349::start:Assign style
+2024-11-29 09:17:20,364::end:Assign style
+2024-11-29 09:17:20,365::start:Save current layer
+2024-11-29 09:17:20,367::end:Save current layer
+2024-11-29 09:17:20,367::start:Reset view
+2024-11-29 09:17:20,384::end:Reset view
+2024-11-29 09:17:20,444::start:Extract tailings beach
+2024-11-29 09:17:20,723::end:Extract tailings beach
+2024-11-29 09:17:20,723::start:Extract surface outline
+2024-11-29 09:17:20,815::end:Extract surface outline
+2024-11-29 09:17:20,904::start:Find minimum distance between lines
+2024-11-29 09:17:21,009::end:Find minimum distance between lines
+2024-11-29 09:17:21,229::start:Load scene
+2024-11-29 09:17:22,096::end:Load scene
+2024-11-29 09:17:22,349::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:40,822::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:17:40,947::start:Assign style
+2024-11-29 09:17:40,963::end:Assign style
+2024-11-29 09:17:40,963::start:Save current layer
+2024-11-29 09:17:40,967::end:Save current layer
+2024-11-29 09:17:40,967::start:Reset view
+2024-11-29 09:17:40,990::end:Reset view
+2024-11-29 09:17:41,052::start:Extract tailings beach
+2024-11-29 09:17:41,407::end:Extract tailings beach
+2024-11-29 09:17:41,408::start:Extract surface outline
+2024-11-29 09:17:41,500::end:Extract surface outline
+2024-11-29 09:17:41,595::start:Find minimum distance between lines
+2024-11-29 09:17:41,703::end:Find minimum distance between lines
+2024-11-29 09:17:41,928::start:Load scene
+2024-11-29 09:17:42,815::end:Load scene
+2024-11-29 09:17:43,066::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:18:01,253::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:18:01,387::start:Assign style
+2024-11-29 09:18:01,398::end:Assign style
+2024-11-29 09:18:01,400::start:Save current layer
+2024-11-29 09:18:01,401::end:Save current layer
+2024-11-29 09:18:01,401::start:Reset view
+2024-11-29 09:18:01,426::end:Reset view
+2024-11-29 09:18:01,483::start:Extract tailings beach
+2024-11-29 09:18:01,805::end:Extract tailings beach
+2024-11-29 09:18:01,805::start:Extract surface outline
+2024-11-29 09:18:01,903::end:Extract surface outline
+2024-11-29 09:18:01,999::start:Find minimum distance between lines
+2024-11-29 09:18:02,114::end:Find minimum distance between lines
+2024-11-29 09:18:02,329::start:Load scene
+2024-11-29 09:18:03,216::end:Load scene
+2024-11-29 09:18:03,467::start:Single stream fixed pond volume, user flow path
+2024-11-29 09:18:20,023::end:Single stream fixed pond volume, user flow path
+2024-11-29 09:18:20,154::start:Assign style
+2024-11-29 09:18:20,167::end:Assign style
+2024-11-29 09:18:20,167::start:Save current layer
+2024-11-29 09:18:20,170::end:Save current layer
+2024-11-29 09:18:20,170::start:Reset view
+2024-11-29 09:18:20,197::end:Reset view
+2024-11-29 09:18:20,275::start:Extract tailings beach
+2024-11-29 09:18:20,599::end:Extract tailings beach
+2024-11-29 09:18:20,599::start:Extract surface outline
+2024-11-29 09:18:20,696::end:Extract surface outline
+2024-11-29 09:18:20,786::start:Find minimum distance between lines
+2024-11-29 09:18:20,891::end:Find minimum distance between lines
+2024-11-29 09:18:21,115::start:Load scene
+2024-11-29 09:18:21,999::end:Load scene
+2024-11-29 09:18:22,104::end:Run Excel model
+2024-11-29 09:18:22,105::end:run_everything.py
+2024-11-29 09:19:11,128::start:Clear graphics
+2024-11-29 09:19:11,184::end:Clear graphics
